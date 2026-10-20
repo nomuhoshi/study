@@ -14,6 +14,8 @@
 
 | 题号 | 文章类型 | 状态 |
 | --- | --- | --- |
+| [听力 Part 1 Q1-4](passages/listening-part1-photos.md) | 照片描写 | 未学 |
+| [听力 Part 2 Q5-17](passages/listening-part2-qa.md) | 应答问题 | 未学 |
 | [Q66-69](passages/q66-69-article.md) | 文章（纪录片） | 已讲，未确认学完 |
 | [Q70-73](passages/q70-73-letter.md) | 信件（酒店人事） | 已讲，未确认学完 |
 | [Q74-75](passages/q74-75-coupon.md) | 优惠券 | 未学 |
