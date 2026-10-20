@@ -1,6 +1,6 @@
 # Q91-95 两封邮件 + 产品列表
 
-状态：未学（附件产品列表原文尚未录入）
+状态：未学
 
 ## 邮件 1
 
@@ -49,7 +49,31 @@ Head of Sales
 
 ## 产品列表
 
-（附件，原文尚未录入）
+Riediger Fabrics
+Flame-Resistant (FR) Products
+
+All Riediger FR product lines comply with the safety standards for flame resistance set by the National Fire Safety Association.
+
+**FR Venus**
+100% Cotton
+- Breathable and soft
+- Our most comfortable product for jobs in low-risk environments
+
+**FR Saturn**
+90% Thormex, 10% polyester
+- Repels dirt and liquids
+- Ideal for outdoor jobs or any work with contaminants
+
+**FR Jupiter**
+90% Cotton, 10% nylon
+- 50 percent thicker than FR Venus
+- Our most flexible and durable product
+- Ideal for manufacturing and maintenance work
+
+**FR Neptune**
+50% Thormex, 50% cotton
+- Balance of comfort and function
+- Lightweight, with medium durability
 
 ## app 解说里的词汇注释
 
