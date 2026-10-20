@@ -18,6 +18,7 @@
 | [听力 Part 2 Q5-17](passages/listening-part2-qa.md) | 应答问题 | 未学 |
 | [听力 Part 3 Q18-35](passages/listening-part3-conversations.md) | 会话（含 2 个图表） | 未学 |
 | [听力 Part 4 Q36-44](passages/listening-part4-talks.md) | 独白（会议、演讲、电话留言、录音留言） | 未学 |
+| [听力 第二套](passages/listening-set2.md) | 另一份模拟题：Part 1 照片、Part 2 Q4-7、Part 3 Q8-16、Part 4 Q17-19 | 未学 |
 | [阅读 Part 5](passages/reading-part5-sentences.md) | 单句填空（目前 Q52） | 未学 |
 | [Q66-69](passages/q66-69-article.md) | 文章（纪录片） | 已讲，未确认学完 |
 | [Q70-73](passages/q70-73-letter.md) | 信件（酒店人事） | 已讲，未确认学完 |
