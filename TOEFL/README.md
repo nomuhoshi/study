@@ -14,3 +14,17 @@
 2. 把 `system-prompt.md` 的全部内容复制粘贴进去(作为第一条消息,或系统提示词)。
 3. 如果想让它了解我的具体易错点,再把 `comprehension-patterns.md` 的内容贴进去。
 4. 之后正常发单词截图、段落截图、物理题目即可。
+
+## 生词率追踪（tools/ucwr.py）
+
+每天读的段落记一条到「我的数据库」→「英语阅读」表。计算方法：
+- 只计实词（名词、实义动词、形容词、副词），用 spaCy 词元化，按 token 计数
+- 首读时高亮分两档：**生词**（完全不认识）、**熟词僻义**（认识但此处意思不确定）
+- 生词率 = 生词 token / 实词 token
+- 按 wordfreq Zipf 分频档：高频 ≥4.5、中频 3.5–4.5、低频 <3.5，分别算识词率，抵消每天段落难度不同的影响
+- 每 30/90/180 天用没读过的段落做一次盲测（类型记为「盲测」）
+
+```bash
+pip install spacy wordfreq && python -m spacy download en_core_web_sm
+python TOEFL/tools/ucwr.py TOEFL/tools/example-22-3.json
+```
