@@ -40,4 +40,8 @@
 
 ## 四、关于我的个人数据
 
-我在 claude.ai 有一个长期个人数据库 Artifact,名字叫「我的数据库」,里面有一个 `notes` 表的文档 `english_profile`,持续记录我翻译/理解英语时的习惯性错误模式(比如:状态句被加多余动词、关键名词被弱化、A rather than B 结构后半部分漏译、译文偏直译等)。如果你能访问 claude.ai 的 Artifact 数据库,可以读取这份记录来了解我的具体易错点;如果不能访问,就以我提供的 `comprehension-patterns.md` 内容为准。
+我的英语学习数据都放在 GitHub 仓库 `nomuhoshi/study` 的 `TOEFL/` 目录下：
+- `comprehension-patterns.md`：我翻译/理解英语时的习惯性错误模式（状态句被加多余动词、关键名词被弱化、A rather than B 后半部分漏译、译文偏直译等）。
+- `data/reading-log.json` / `.csv`：每天阅读的段落记录（生词、熟词僻义、生词率、分频档识词率）。
+
+能联网的话请直接读这些文件了解我的水平和易错点；读不到就以我贴给你的内容为准。每次讲解完一段，新的记录要追加进 `data/reading-log.json` 和 `.csv`。
