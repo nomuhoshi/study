@@ -28,3 +28,7 @@
 pip install spacy wordfreq && python -m spacy download en_core_web_sm
 python TOEFL/tools/ucwr.py TOEFL/tools/example-22-3.json
 ```
+
+## 阅读记录（data/）
+
+`data/reading-log.csv`、`data/reading-log.json`：每段阅读一行，内容是「我的数据库」→「英语阅读」表的导出副本（主数据在数据库里，这里定期同步）。字段：日期、段落、实词数、生词数、熟词僻义数、生词率、高/中/低频识词率、生词列表、熟词僻义列表、备注。
