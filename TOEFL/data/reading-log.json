@@ -713,6 +713,55 @@
   "words": "pathogen, cedar, rust, infect, intermediate, alternate, overwinter, elimination, advocate, incidence, fever, malaria, incubation, mosquito, transmit"
  },
  {
+  "date": "2026-10-23",
+  "date_estimated": false,
+  "passage": "22-4",
+  "kind": "日常",
+  "tokens": 86,
+  "unknown": 21,
+  "polysemy": 3,
+  "rate": 24.4,
+  "unclear_rate": 27.9,
+  "content_types": 68,
+  "unknown_types": 16,
+  "polysemy_types": 2,
+  "high": 95.1,
+  "mid": 47.6,
+  "low": 16.7,
+  "band_types": {
+   "high": 41,
+   "mid": 21,
+   "low": 6
+  },
+  "words": "aftermath, bizarre, bulb, bush, excessively, feathering, fungus, integral, outbreak, plantation, prized, rust, skyrocket, streak, symptom, tulip",
+  "poly_words": "result (resulting in 导致), lasting (持久的)",
+  "unknown_lemmas": [
+   "aftermath",
+   "bizarre",
+   "bulb",
+   "bush",
+   "excessively",
+   "feathering",
+   "fungus",
+   "integral",
+   "outbreak",
+   "plantation",
+   "prized",
+   "rust",
+   "skyrocket",
+   "streak",
+   "symptom",
+   "tulip"
+  ],
+  "poly_lemmas": [
+   "last",
+   "result"
+  ],
+  "note": "rust 第4次高亮（22-1、22-3、22-4；22-2未出现）；fungus 在22-1/22-3未标、这次标了，属于回退。",
+  "method_version": 1,
+  "source": "对话 2026-10-23"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
