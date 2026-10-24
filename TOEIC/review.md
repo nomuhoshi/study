@@ -19,6 +19,7 @@
 下次复习：2026-10-30
 
 - 10/24 第 1 天自测 12 个，只记得 3 个（25%）。忘掉的：subsidy, prior to, renewal, invoice, incur, bulk discount, admission, expire, be good for
+- 10/24 重学后立即再测 9 个，记得 8 个；漏了 bulk discount
 - 易混：quantity 数量 ≠ quality 质量；officially 正式地（副词）≠ official 正式的
 
 inform A of B, upcoming, position, director, location, officially, wish you all the best, establishment, while(虽然), supervise, Should you…, transition into, screen(上映), cut out, coupon, admission, box office, weekday, be good for, expire, put … together, commute, text back, subsidy, share rides, maintenance, right to your door, prior to, renewal, reminder, notice, anniversary date, premium, quantity, item description, subtotal, sales tax, terms and conditions, allow + 时间 + for, invoice, incur, late fee, arrangement, bulk discount, buy in bulk
