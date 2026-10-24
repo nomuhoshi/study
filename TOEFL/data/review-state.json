@@ -1,0 +1,60 @@
+{
+ "sessions": [
+  {
+   "id": "2026-10-24-1",
+   "date": "2026-10-24",
+   "status": "pending",
+   "words": [
+    {
+     "word": "rust",
+     "sentence": "The coffee rust fungus destroyed the coffee plants, and the plantations switched to growing tea bushes.",
+     "note": "第4次标记"
+    },
+    {
+     "word": "outbreak",
+     "sentence": "...when botanist Pierre-Marie-Alexis Millardet was studying an outbreak of downy mildew, a devastating disease of grapes...",
+     "note": "22-4、22-5连续标记"
+    },
+    {
+     "word": "pathogen",
+     "sentence": "Some plant pathogens, such as the organism responsible for cedar-apple rust, must infect an intermediate, or alternate, host before they can complete their life cycle.",
+     "note": "22-1到22-3连续三天标记"
+    },
+    {
+     "word": "fungus",
+     "sentence": "The coffee rust fungus destroyed the coffee plants, and the plantations switched to growing tea bushes."
+    },
+    {
+     "word": "devastating",
+     "sentence": "...downy mildew, a devastating disease of grapes, on vineyards in the Bordeaux region of France.",
+     "note": "22-1标过devastate"
+    },
+    {
+     "word": "infect",
+     "sentence": "Some plant pathogens... must infect an intermediate, or alternate, host before they can complete their life cycle."
+    },
+    {
+     "word": "resonance",
+     "sentence": "For species that sleep at night, dusk and dawn are their windows of opportunity to get the best resonance and distance out of a signal.",
+     "note": "9/9和9/11各标一次"
+    },
+    {
+     "word": "draw on",
+     "sentence": "Rather than draw on British models, American artists, Emerson argued, should seek inspiration in the ordinary details of daily American life.",
+     "note": "12-5、12-6连续标记"
+    },
+    {
+     "word": "considerable",
+     "sentence": "The camouflage of these water boatmen gives them considerable protection from insect-eating fish.",
+     "note": "20-3和邀请信里都标过"
+    },
+    {
+     "word": "conduct",
+     "sentence": "Dusk and dawn are the times to conduct the serious business of attracting mates and defending territory.",
+     "note": "13-5、21-1都标过"
+    }
+   ],
+   "results": null
+  }
+ ]
+}
