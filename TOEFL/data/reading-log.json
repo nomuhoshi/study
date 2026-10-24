@@ -757,9 +757,58 @@
    "last",
    "result"
   ],
-  "note": "rust 第4次高亮（22-1、22-3、22-4；22-2未出现）；fungus 在22-1/22-3未标、这次标了，属于回退。",
+  "note": "rust 第4次高亮（22-1、22-3、22-4；22-2未出现）；fungus 在22-1/22-3未标、这次标了，属于回退。 她的笔记：bizarre 古怪的; streak 条纹; feather 羽毛; feathering 羽状条纹; tulip 郁金香; bulb 灯泡、球茎; prized 非常值钱; skyrocket 价格飞涨; resulting in 导致; excessively 过度的; rust 锈病; outbreak 疾病爆发; aftermath 余波; lasting 长远的; plantation 种植园; fungus 真菌; bush 灌木; integral 不可缺少的。symptoms 和 rust 之外，symptom 没写意思。",
   "method_version": 1,
   "source": "对话 2026-10-23"
+ },
+ {
+  "date": "2026-10-23",
+  "date_estimated": false,
+  "passage": "22-5",
+  "kind": "日常",
+  "tokens": 65,
+  "unknown": 23,
+  "polysemy": 1,
+  "rate": 35.4,
+  "unclear_rate": 36.9,
+  "content_types": 52,
+  "unknown_types": 17,
+  "polysemy_types": 1,
+  "high": 93.1,
+  "mid": 33.3,
+  "low": 20.0,
+  "band_types": {
+   "high": 29,
+   "mid": 18,
+   "low": 5
+  },
+  "words": "alter, bitter, botanist, copper, devastating, downy, grape, lime, mildew, outbreak, passersby, prevention, resistant, spray, treatment, vine, vineyard",
+  "poly_words": "taste/tasting (bitter-tasting)",
+  "unknown_lemmas": [
+   "alter",
+   "bitter",
+   "botanist",
+   "copper",
+   "devastating",
+   "downy",
+   "grape",
+   "lime",
+   "mildew",
+   "outbreak",
+   "passersby",
+   "prevention",
+   "resistant",
+   "spray",
+   "treatment",
+   "vine",
+   "vineyard"
+  ],
+  "poly_lemmas": [
+   "taste"
+  ],
+  "note": "她的笔记：prevention 预防; treatment 处理方法; altering 改变; resistant 有抵抗力的; botanist 植物学家; outbreak 爆发; devastating 毁灭性的; grapes 葡萄; vineyards 葡萄园; bordeaux 法国葡萄酒产区波尔多; vines 葡萄藤; mildew 霉病; sprayed 喷洒; bitter-tasting 味苦; copper 铜; lime 石灰; passersby 路人; downy 毛茸茸; mildew 霉; bitter 苦的; taste→tasting 品尝。outbreak 与 22-4 连续两天标记（22-4 当天写了\"疾病爆发\"，次日仍标）。22-4、22-5 日期均记为 10-23（她说\"昨天的\"）。",
+  "method_version": 1,
+  "source": "对话 2026-10-24"
  },
  {
   "band_types": {
