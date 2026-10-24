@@ -811,6 +811,57 @@
   "source": "对话 2026-10-24"
  },
  {
+  "date": "2026-10-24",
+  "date_estimated": false,
+  "passage": "23-1",
+  "kind": "日常",
+  "tokens": 95,
+  "unknown": 20,
+  "polysemy": 3,
+  "rate": 21.1,
+  "unclear_rate": 24.2,
+  "content_types": 81,
+  "unknown_types": 17,
+  "polysemy_types": 3,
+  "high": 95.8,
+  "mid": 73.3,
+  "low": 22.2,
+  "band_types": {
+   "high": 48,
+   "mid": 15,
+   "low": 18
+  },
+  "words": "aggregation, ancestral, aquatic, biology, embed, flagellum, metabolic, motile, motility, multicellular, pigment, primitive, protist, protozoan, sedimentary, spontaneously, unicellular",
+  "poly_words": "class (biology class), around (been around), specialized",
+  "unknown_lemmas": [
+   "aggregation",
+   "ancestral",
+   "aquatic",
+   "biology",
+   "embed",
+   "flagellum",
+   "metabolic",
+   "motile",
+   "motility",
+   "multicellular",
+   "pigment",
+   "primitive",
+   "protist",
+   "protozoan",
+   "sedimentary",
+   "spontaneously",
+   "unicellular"
+  ],
+  "poly_lemmas": [
+   "around",
+   "class",
+   "specialize"
+  ],
+  "note": "首次出现的是生物学术语堆（uni/multicellular、protist、flagellum 等），低频词多。specialized 在 13-6、23-1 都标过。尚未写自己的释义。",
+  "method_version": 1,
+  "source": "对话 2026-10-24"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
