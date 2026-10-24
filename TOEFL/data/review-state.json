@@ -3,7 +3,7 @@
   {
    "id": "2026-10-24-1",
    "date": "2026-10-24",
-   "status": "pending",
+   "status": "skipped",
    "words": [
     {
      "word": "rust",
@@ -52,6 +52,56 @@
      "word": "conduct",
      "sentence": "Dusk and dawn are the times to conduct the serious business of attracting mates and defending territory.",
      "note": "13-5、21-1都标过"
+    }
+   ],
+   "results": null,
+   "skip_reason": "用户想从更早的词开始复习，这批近期词跳过"
+  },
+  {
+   "id": "2026-10-24-2",
+   "date": "2026-10-24",
+   "status": "pending",
+   "scope": "最早的段落(12-5到12-8, 9/3-9/6)",
+   "words": [
+    {
+     "word": "apprenticeship",
+     "sentence": "\"Our day of dependence, our long apprenticeship to the learning of other lands draws to a close,\" Emerson announced."
+    },
+    {
+     "word": "draws to a close",
+     "sentence": "\"Our day of dependence, our long apprenticeship to the learning of other lands draws to a close,\" Emerson announced."
+    },
+    {
+     "word": "claim (n.)",
+     "sentence": "...the home of American cultural independence from Europe, a claim voiced in 1837 by Ralph Waldo Emerson in a lecture at Harvard."
+    },
+    {
+     "word": "self-sufficiency",
+     "sentence": "\"The American Scholar,\" his most famous lecture, carried a message of cultural self-sufficiency that Americans were eager to hear."
+    },
+    {
+     "word": "rendering",
+     "sentence": "Cole founded the Hudson River school of American painting, whose romantic renderings of New York landscapes were frankly nationalistic."
+    },
+    {
+     "word": "nationalistic",
+     "sentence": "...whose romantic renderings of New York landscapes were frankly nationalistic."
+    },
+    {
+     "word": "realist",
+     "sentence": "Other painters, realists such as Karl Bodmer and George Catlin, drew on the dramatic landscapes and peoples of the American West."
+    },
+    {
+     "word": "prevalent",
+     "sentence": "Ironically, the inspiration for the most prevalent theme, the American wilderness, was profoundly endangered by the rapid western settlement."
+    },
+    {
+     "word": "wilderness",
+     "sentence": "...the inspiration for the most prevalent theme, the American wilderness, was profoundly endangered..."
+    },
+    {
+     "word": "contradiction",
+     "sentence": "Despite such contradictions, the early nineteenth century was the period in which writers and painters found the national themes."
     }
    ],
    "results": null
