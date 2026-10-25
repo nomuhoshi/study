@@ -11,6 +11,7 @@
 | 2026-10-23 | Q78-79 网页 | 49 | 6 | 88% | 89% | 85% | — |
 | 2026-10-23 | Q80-82 发票 | 63 | 17 | 73% | 83% | 29% | 0% |
 | 2026-10-24 | Q83-86 邮件 | 66 | 14 | 79% | 89% | 69% | 20% |
+| 2026-10-25 | Q87-90 在线聊天 | 65 | 11 | 83% | 88% | 71% | — |
 
 ## 词汇与复习状态
 
@@ -29,3 +30,9 @@ inform A of B, upcoming, position, director, location, officially, wish you all 
 下次复习：2026-10-25，之后 2026-10-31
 
 commence, neighborhood, recyclables, as specified here, specify, cardboard, can(罐), rotate, on a weekly basis, lid, refer to
+
+### 批次 3（2026-10-25 学，Q87-90）
+
+下次复习：2026-10-26，之后 2026-11-01
+
+come along(进展), appreciate(认识到价值), prototype, invest … into, resource, we were wondering if, conduct, in person, headquarters, Wasn't the plan …?, custom(定制的)
