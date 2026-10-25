@@ -2329,6 +2329,92 @@
   "source": "对话 2026-10-24"
  },
  {
+  "date": "2026-10-25",
+  "date_estimated": false,
+  "passage": "23-2",
+  "kind": "日常",
+  "tokens": 51,
+  "unknown": 10,
+  "polysemy": 1,
+  "rate": 19.6,
+  "unclear_rate": 21.6,
+  "content_types": 40,
+  "unknown_types": 9,
+  "polysemy_types": 1,
+  "high": 85.2,
+  "mid": 62.5,
+  "low": 40.0,
+  "band_types": {
+   "high": 27,
+   "mid": 8,
+   "low": 5
+  },
+  "words": "anatomical, incoming, kingdom, means, namely, photosensitive, presence, restrict, specialization",
+  "poly_words": "strike",
+  "unknown_lemmas": [
+   "anatomical",
+   "incoming",
+   "kingdom",
+   "means",
+   "namely",
+   "photosensitive",
+   "presence",
+   "restrict",
+   "specialization"
+  ],
+  "poly_lemmas": [
+   "strike"
+  ],
+  "note": "今天（10/25）。她只高亮、没发意思列表。高亮：presence of photosensitive, means of restricting, incoming, strike, anatomical specialization, namely, to have had（完成式不定式）, kingdom。pigment、specialized、detection 没再高亮（23-1/19-1 学过，目前看保持住了）",
+  "method_version": 1,
+  "source": "对话 2026-10-25"
+ },
+ {
+  "date": "2026-10-25",
+  "date_estimated": false,
+  "passage": "23-3",
+  "kind": "日常",
+  "tokens": 53,
+  "unknown": 12,
+  "polysemy": 2,
+  "rate": 22.6,
+  "unclear_rate": 26.4,
+  "content_types": 47,
+  "unknown_types": 12,
+  "polysemy_types": 2,
+  "high": 89.7,
+  "mid": 35.7,
+  "low": 50.0,
+  "band_types": {
+   "high": 29,
+   "mid": 14,
+   "low": 4
+  },
+  "words": "bit, burrowing, burst, creativity, evolutionary, fossilize, indirect, interval, presence, scarce, surge, worm",
+  "poly_words": "explosion, turn",
+  "unknown_lemmas": [
+   "bit",
+   "burrowing",
+   "burst",
+   "creativity",
+   "evolutionary",
+   "fossilize",
+   "indirect",
+   "interval",
+   "presence",
+   "scarce",
+   "surge",
+   "worm"
+  ],
+  "poly_lemmas": [
+   "explosion",
+   "turn"
+  ],
+  "note": "今天（10/25）。她只高亮、没发意思列表。高亮：scarce, Precambrian, turning up, presence, indirect, worm burrowings, But just 50 million years or so later, fossilized bits, burst, evolutionary creativity, interval, surge, explosion。重复标记：scarce(19-1)、presence(15-3)、explosion(18-4)、burrow(17-2/17-4)；fossil、abound 没高亮",
+  "method_version": 1,
+  "source": "对话 2026-10-25"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
