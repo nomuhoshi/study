@@ -2415,6 +2415,133 @@
   "source": "对话 2026-10-25"
  },
  {
+  "date": "2026-10-26",
+  "date_estimated": false,
+  "passage": "23-4",
+  "kind": "日常",
+  "tokens": 53,
+  "unknown": 10,
+  "polysemy": 2,
+  "rate": 18.9,
+  "unclear_rate": 22.6,
+  "content_types": 48,
+  "unknown_types": 10,
+  "polysemy_types": 2,
+  "high": 93.1,
+  "mid": 70.0,
+  "low": 22.2,
+  "band_types": {
+   "high": 29,
+   "mid": 10,
+   "low": 9
+  },
+  "words": "delicate, deposit, extraordinarily, flatten, fossilize, miraculous, mountainside, preservation, reconstruct, repository",
+  "poly_words": "remain, short",
+  "unknown_lemmas": [
+   "delicate",
+   "deposit",
+   "extraordinarily",
+   "flatten",
+   "fossilize",
+   "miraculous",
+   "mountainside",
+   "preservation",
+   "reconstruct",
+   "repository"
+  ],
+  "poly_lemmas": [
+   "remain",
+   "short"
+  ],
+  "note": "截图是 10/27 凌晨 1:27，按 10/26 的学习记。她这次没发意思列表，只高亮。高亮：mountainside, deposit, extraordinarily, remains, fossilize, preservation, short of miraculous, as, delicate, reconstruct, flattened, repositories。Cambrian explosion、presence 没再高亮（23-3 学过）",
+  "method_version": 1,
+  "source": "对话 2026-10-27"
+ },
+ {
+  "date": "2026-10-26",
+  "date_estimated": false,
+  "passage": "23-5",
+  "kind": "日常",
+  "tokens": 63,
+  "unknown": 16,
+  "polysemy": 6,
+  "rate": 25.4,
+  "unclear_rate": 34.9,
+  "content_types": 45,
+  "unknown_types": 12,
+  "polysemy_types": 5,
+  "high": 85.7,
+  "mid": 50.0,
+  "low": 0.0,
+  "band_types": {
+   "high": 28,
+   "mid": 8,
+   "low": 9
+  },
+  "words": "crustacean, designation, faceted, gross, hemispheric, lateral, medial, movable, reconstructed, stalk, superficially, trilobite",
+  "poly_words": "like, mount, pair, responsible, sit",
+  "unknown_lemmas": [
+   "crustacean",
+   "designation",
+   "faceted",
+   "gross",
+   "hemispheric",
+   "lateral",
+   "medial",
+   "movable",
+   "reconstructed",
+   "stalk",
+   "superficially",
+   "trilobite"
+  ],
+  "poly_lemmas": [
+   "like",
+   "mount",
+   "pair",
+   "responsible",
+   "sit"
+  ],
+  "note": "截图是 10/27 凌晨 1:27，按 10/26 的学习记。她这次没发意思列表，只高亮。高亮：Gross, hemispheric, responsible, designation, reconstructed, superficially, crustaceans, mounted, stalks, sat on stalks, lateral pairs, medial, movable, trilobite, faceted, much like。reconstruct 在 23-4 也标过",
+  "method_version": 1,
+  "source": "对话 2026-10-27"
+ },
+ {
+  "date": "2026-10-26",
+  "date_estimated": false,
+  "passage": "23-6",
+  "kind": "日常",
+  "tokens": 36,
+  "unknown": 1,
+  "polysemy": 4,
+  "rate": 2.8,
+  "unclear_rate": 13.9,
+  "content_types": 30,
+  "unknown_types": 1,
+  "polysemy_types": 4,
+  "high": 83.3,
+  "mid": 80.0,
+  "low": 100.0,
+  "band_types": {
+   "high": 24,
+   "mid": 5,
+   "low": 1
+  },
+  "words": "potentially",
+  "poly_words": "around, brand, much, seem",
+  "unknown_lemmas": [
+   "potentially"
+  ],
+  "poly_lemmas": [
+   "around",
+   "brand",
+   "much",
+   "seem"
+  ],
+  "note": "截图是 10/27 凌晨 1:27，按 10/26 的学习记。她这次没发意思列表，只高亮。高亮：have been around, seem much too, potentially, brand。been around 在 23-1 标过；potential 在 14-3 标过；presence、Cambrian explosion 没再高亮",
+  "method_version": 1,
+  "source": "对话 2026-10-27"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
