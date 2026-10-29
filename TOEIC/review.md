@@ -12,6 +12,7 @@
 | 2026-10-23 | Q80-82 发票 | 63 | 17 | 73% | 83% | 29% | 0% |
 | 2026-10-24 | Q83-86 邮件 | 66 | 14 | 79% | 89% | 69% | 20% |
 | 2026-10-25 | Q87-90 在线聊天 | 65 | 11 | 83% | 88% | 71% | — |
+| 2026-10-29 | Q91-95 邮件 | 待算 | 待算 | 待算 | 待算 | 待算 | 待算 |
 
 ## 词汇与复习状态
 
@@ -36,3 +37,11 @@ commence, neighborhood, recyclables, as specified here, specify, cardboard, can(
 下次复习：2026-10-26，之后 2026-11-01
 
 come along(进展), appreciate(认识到价值), prototype, invest … into, resource, we were wondering if, conduct, in person, headquarters, Wasn't the plan …?, custom(定制的)
+
+### 批次 4（2026-10-29 学，Q91-95；10/30 凌晨 2 点学完，按 6 点分界算 10/29）
+
+下次复习：2026-10-30，之后 2026-11-05
+
+识词率待算（当时环境装不上 spaCy/wordfreq，词表已记全）。
+
+to whom it may concern, be with(在某公司工作), apparel, garment, a variety of, workwear, line(产品系列), be limited to, hospitality, plan on doing, generate a need, flame-resistant, secure(获得、确保), a range of, meet the demands of, fabric, application(用途), specify, unique qualities, look into, offshore, drilling, sector, specifically, be exposed to, appropriate, reach out to, -based, attach, suitable, breathability, property(特性), wear off, uniform(制服), inherently, repel, dirt, at the moment, look forward to doing, hear back from, Head of Sales, comply with, polyester, contaminant, nylon, flexible, durable, manufacturing, lightweight, durability
