@@ -32,3 +32,5 @@ python TOEFL/tools/ucwr.py TOEFL/tools/example-22-3.json
 ## 阅读记录（data/）
 
 `data/reading-log.csv`、`data/reading-log.json`：每段阅读一行，**这里就是主数据**，所有阅读记录以这两个文件为准（JSON 字段最全，CSV 方便用 Excel 看）。字段：日期、段落、实词数、生词数、熟词僻义数、生词率、高/中/低频识词率、生词列表、熟词僻义列表、备注。
+
+带 `"pending_compute": true` 的条目表示当时环境装不了 spaCy/wordfreq，数字栏（实词数、生词率、分频档识词率）留空，词表和她写的意思已经记全；在能装库的环境里用 `tools/ucwr.py` 补算后删掉这个标记。
