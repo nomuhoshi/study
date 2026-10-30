@@ -2733,6 +2733,49 @@
   "pending_compute": true
  },
  {
+  "date": "2026-10-30",
+  "date_estimated": false,
+  "passage": "24-5",
+  "kind": "日常",
+  "tokens": null,
+  "unknown": null,
+  "polysemy": null,
+  "rate": null,
+  "unclear_rate": null,
+  "content_types": null,
+  "unknown_types": 11,
+  "polysemy_types": 4,
+  "high": null,
+  "mid": null,
+  "low": null,
+  "band_types": null,
+  "words": "cling, fast-moving, favorable, flourish, inhabitant, larva, latter, mite, normally, refuge, splash",
+  "poly_words": "gentle, hold, mass, pool",
+  "unknown_lemmas": [
+   "cling",
+   "fast-moving",
+   "favorable",
+   "flourish",
+   "inhabitant",
+   "larva",
+   "latter",
+   "mite",
+   "normally",
+   "refuge",
+   "splash"
+  ],
+  "poly_lemmas": [
+   "gentle",
+   "hold",
+   "mass",
+   "pool"
+  ],
+  "note": "高亮：mass, mites, larvae, Clinging, holds, splash zones, flourish, inhabitants, latter, fast-moving, favorable, normally, refuge, gentle, pools。她写的意思：mass 一大团, mite 螨虫, larvae 幼虫, cling 抓住, solid holds 牢固的附着点, splash zone 水花飞溅区, flourish 茂盛生长, latter 后者, inhabitant 居住者, fast-moving 快速流动, favorable 有利的, normally 通常, refuge 避难所, gentle 平缓的, pool 水潭。熟词僻义（我的判断，可修正）：mass(一大团), hold(附着点), pool(水潭), gentle(平缓的)；normally 是高频词但她写了意思，按生词计。重复标记：cling（24-3 标过，隔1天）、inhabitant（18-4）、mass（15-1、15-5）、larvae（20-1）；fast-moving 与 24-4 的 fast-flowing 同类；flourish 在 24-4 原文出现过但当时没标。数字栏待算：环境装不了 spaCy/wordfreq。",
+  "method_version": 1,
+  "source": "截图 2026-10-30",
+  "pending_compute": true
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
