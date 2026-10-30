@@ -120,7 +120,14 @@
      "wilderness",
      "contradiction"
     ]
-   }
+   },
+   "retests": [
+    {
+     "date": "2026-10-30",
+     "status": "pending",
+     "note": "她说上次没复习完；距 10/25 讲解 5 天，同 10 个词不给释义重测"
+    }
+   ]
   }
  ]
 }
