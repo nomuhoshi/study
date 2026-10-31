@@ -2810,7 +2810,7 @@
    "given",
    "parent"
   ],
-  "note": "标题 Meteorite 也高亮。高亮：Meteorite, Asteroids, asteroid belt, fragments(2次), of a given meteorite, brilliant fireball, disintegrating, parent, jumble, chunks, assembled。她写的意思：miteorite（拼错，应为 meteorite，没写意思）, asteroid 小行星, asteroid belt 小行星带, fragments 碎片, given 某个特定的, brilliant 耀眼的, fireball 火球, disintegrate 解体, parent 母体, junble（拼错，应为 jumble）杂乱的一堆, chunk 大块, assemble 聚集组合。熟词僻义（我的判断，可修正）：given(某个特定的), brilliant(耀眼的), parent(母体), belt(asteroid belt)。之前记录里出现过：无。数字栏待算：环境装不了 spaCy/wordfreq。",
+  "note": "标题 Meteorite 也高亮。高亮：Meteorite, Asteroids, asteroid belt, fragments(2次), of a given meteorite, brilliant fireball, disintegrating, parent, jumble, chunks, assembled。她写的意思：miteorite 陨石（拼写应为 meteorite）, asteroid 小行星, asteroid belt 小行星带, fragments 碎片, given 某个特定的, brilliant 耀眼的, fireball 火球, disintegrate 解体, parent 母体, jumble 杂乱的一堆（第一次拼成 junble，已改）, chunk 大块, assemble 聚集组合。熟词僻义（我的判断，可修正）：given(某个特定的), brilliant(耀眼的), parent(母体), belt(asteroid belt)。之前记录里出现过：无。数字栏待算：环境装不了 spaCy/wordfreq。",
   "method_version": 1,
   "source": "截图 2026-10-31",
   "pending_compute": true
