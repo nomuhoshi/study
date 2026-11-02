@@ -3192,9 +3192,10 @@
    "comedy",
    "play"
   ],
-  "note": "Passage 27 Commedia dell'Arte 的 27-1。高亮：标题 Commedia dell'Arte, In contrast to opera, chiefly, Renaissance, comedy, play of, scholarly, nonprofessionals。她没写意思，生词/熟词僻义是我按词义判断的（comedy、play 记为熟词僻义；标题和 commedia 是意大利语专名，不计）。Notes 编辑时间是 11/1 21:04，按 11/1 记。话题：戏剧/历史。",
+  "note": "Passage 27 Commedia dell'Arte 的 27-1。高亮：标题 Commedia dell'Arte, In contrast to opera, chiefly, Renaissance, comedy, play of, scholarly, nonprofessionals。她没写意思，生词/熟词僻义是我按词义判断的（comedy、play 记为熟词僻义；标题和 commedia 是意大利语专名，不计）。Notes 编辑时间是 11/1 21:04，按 11/1 记。话题：戏剧/历史。 她已写全意思（见 own_meanings），所有高亮词都有意思。",
   "method_version": 1,
-  "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）"
+  "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）",
+  "own_meanings": "in contrast to opera 与歌剧相对; chiefly 主要的; Renaissance 文艺复兴; comedy 喜剧; play of x的喜剧（更准确：戏剧）; scholarly 学术的; nonprofessionals 非专业人员"
  },
  {
   "date": "2026-11-01",
@@ -3233,9 +3234,10 @@
    "stag",
    "term"
   ],
-  "note": "27-2。高亮：consisted, varied, troupes, mimes, clowns, instances, commedia performers, staged, term, comedy。她没写意思，生词/熟词僻义是我按词义判断的（staged、term、comedy 记为熟词僻义）。话题：戏剧/历史。",
+  "note": "27-2。高亮：consisted, varied, troupes, mimes, clowns, instances, commedia performers, staged, term, comedy。她没写意思，生词/熟词僻义是我按词义判断的（staged、term、comedy 记为熟词僻义）。话题：戏剧/历史。 她已写全意思（见 own_meanings），所有高亮词都有意思。",
   "method_version": 1,
-  "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）"
+  "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）",
+  "own_meanings": "consisted 由x组成; varied 变化; troupes 剧团; mimes 压剧演剧（应为：哑剧演员）; clowns 小丑; instances 实例; commedia performers 艺术喜剧演员; staged 上演; term 术语; comedy 喜剧"
  },
  {
   "date": "2026-11-01",
@@ -3278,9 +3280,10 @@
    "rather",
    "set"
   ],
-  "note": "27-3。高亮：thrived, literary, rather, improvised, Scenario, scripts, dialogue, scripts, plot outlines, had no set text, invented, went along, improvisation。她没写意思，生词/熟词僻义是我按词义判断的（rather、plot outlines、set text、invented、went along 记为熟词僻义）。话题：戏剧/历史。",
+  "note": "27-3。高亮：thrived, literary, rather, improvised, Scenario, scripts, dialogue, scripts, plot outlines, had no set text, invented, went along, improvisation。她没写意思，生词/熟词僻义是我按词义判断的（rather、plot outlines、set text、invented、went along 记为熟词僻义）。话题：戏剧/历史。 她已写全意思（见 own_meanings），所有高亮词都有意思。",
   "method_version": 1,
-  "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）"
+  "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）",
+  "own_meanings": "thrived 繁荣; literary 文学的; rather 而是; improvised 即兴的; scenario 剧情大纲; scripts 剧本; dialogue 对白; scripts 脚本; plot outlines 情节大纲; plot 情节; outlines 大纲; had no set text 没有固定台词; invented 即兴编出来; went along 随着表演进行; scenario 剧情大纲; improvisation 即兴表演; dialogue 对白"
  },
  {
   "date": "2026-11-02",
@@ -3289,23 +3292,23 @@
   "kind": "日常",
   "topic": "戏剧/历史",
   "tokens": 75,
-  "unknown": 10,
-  "polysemy": 6,
-  "rate": 13.3,
-  "unclear_rate": 21.3,
+  "unknown": 12,
+  "polysemy": 7,
+  "rate": 16.0,
+  "unclear_rate": 25.3,
   "content_types": 62,
-  "unknown_types": 10,
-  "polysemy_types": 6,
-  "high": 83.8,
-  "mid": 78.6,
+  "unknown_types": 11,
+  "polysemy_types": 7,
+  "high": 81.1,
+  "mid": 71.4,
   "low": 36.4,
   "band_types": {
    "high": 37,
    "mid": 14,
    "low": 11
   },
-  "words": "braggart, convention, cowardly, fuse, improvisatory, lecherous, miserly, pedant, sly, spur",
-  "poly_words": "affair, block, figure, moment, stock, suggest",
+  "words": "braggart, convention, cowardly, fuse, improvisatory, lecherous, miserly, pedant, servant, sly, spur",
+  "poly_words": "affair, block, figure, moment, nature, stock, suggest",
   "unknown_lemmas": [
    "braggart",
    "convention",
@@ -3315,6 +3318,7 @@
    "lecherous",
    "miserly",
    "pedant",
+   "servant",
    "sly",
    "spur"
   ],
@@ -3323,12 +3327,14 @@
    "block",
    "figure",
    "moment",
+   "nature",
    "stock",
    "suggest"
   ],
-  "note": "27-4。高亮：conventions, commedia, improvisatory, suggest, stock characters, 'comic figures were a lecherous, miserly old Venetian, Pantalone;' (长句高亮), foolish pedant, 'neighbor's affairs, Dottore; a cowardly braggart soldier, Capitano; and sometimes foolish, sometimes sly servants known as zanni. Arlecchino, or Harlequin was the most popular of the comic servants.' (长句高亮), 'blocked by Pantalone and Dottore.', 'fused their own personalities with those of the characters,', 'comic interaction on the spur of the moment.'。她没写意思，长句高亮我按其中的单词判断生词（意大利语人名 Pantalone/Dottore/Capitano/zanni/Arlecchino 和 commedia、Venetian 不计）。生词/熟词僻义是我按词义判断的（suggest、stock、figures、affairs、blocked、moment 记为熟词僻义）。27-5、27-6、27-7 没有高亮，没算。话题：戏剧/历史。",
+  "note": "27-4。高亮：conventions, commedia, improvisatory, suggest, stock characters, 'comic figures were a lecherous, miserly old Venetian, Pantalone;' (长句高亮), foolish pedant, 'neighbor's affairs, Dottore; a cowardly braggart soldier, Capitano; and sometimes foolish, sometimes sly servants known as zanni. Arlecchino, or Harlequin was the most popular of the comic servants.' (长句高亮), 'blocked by Pantalone and Dottore.', 'fused their own personalities with those of the characters,', 'comic interaction on the spur of the moment.'。她没写意思，长句高亮我按其中的单词判断生词（意大利语人名 Pantalone/Dottore/Capitano/zanni/Arlecchino 和 commedia、Venetian 不计）。生词/熟词僻义是我按词义判断的（suggest、stock、figures、affairs、blocked、moment 记为熟词僻义）。27-5、27-6、27-7 没有高亮，没算。话题：戏剧/历史。 她后来补写了意思，并单独问了 servants，按生词计；nature 也高亮了（性质，熟词僻义）。 她已写全意思（见 own_meanings）。",
   "method_version": 1,
-  "source": "截图 2026-11-02 22:26"
+  "source": "截图 2026-11-02 22:26",
+  "own_meanings": "conventions 惯例; commedia 艺术喜剧; improvisatory 即兴的; suggest 暗示; nature 性质; would 一种假设的口气，按常理会让人觉得; stock 库存; stoick characters（应为 stock characters）固定角色; comic 滑稽; comic figures 滑稽人物; lecherous 好色的; miserly 吝啬的; venetian 威尼斯人; venice 威尼斯; foolish 愚蠢的; pedant 卖弄学问的人; neighbor's affaire（应为 affairs）邻居事务; cowardly 胆小的; braggart 吹牛; sly 狡猾的; servants 仆人们; commedia 艺术喜剧; block 阻挠; blocked by 被x阻挠; fused 融合; improvisation 即兴; personalities 性格; comic interaction 喜剧互动; supr（应为 spur）马刺; on the spur 一时冲动"
  },
  {
   "band_types": {
