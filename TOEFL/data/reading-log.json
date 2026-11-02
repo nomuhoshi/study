@@ -3283,6 +3283,54 @@
   "source": "截图 2026-11-02 12:43（Notes 编辑时间 11/1 21:04）"
  },
  {
+  "date": "2026-11-02",
+  "date_estimated": false,
+  "passage": "27-4",
+  "kind": "日常",
+  "topic": "戏剧/历史",
+  "tokens": 75,
+  "unknown": 10,
+  "polysemy": 6,
+  "rate": 13.3,
+  "unclear_rate": 21.3,
+  "content_types": 62,
+  "unknown_types": 10,
+  "polysemy_types": 6,
+  "high": 83.8,
+  "mid": 78.6,
+  "low": 36.4,
+  "band_types": {
+   "high": 37,
+   "mid": 14,
+   "low": 11
+  },
+  "words": "braggart, convention, cowardly, fuse, improvisatory, lecherous, miserly, pedant, sly, spur",
+  "poly_words": "affair, block, figure, moment, stock, suggest",
+  "unknown_lemmas": [
+   "braggart",
+   "convention",
+   "cowardly",
+   "fuse",
+   "improvisatory",
+   "lecherous",
+   "miserly",
+   "pedant",
+   "sly",
+   "spur"
+  ],
+  "poly_lemmas": [
+   "affair",
+   "block",
+   "figure",
+   "moment",
+   "stock",
+   "suggest"
+  ],
+  "note": "27-4。高亮：conventions, commedia, improvisatory, suggest, stock characters, 'comic figures were a lecherous, miserly old Venetian, Pantalone;' (长句高亮), foolish pedant, 'neighbor's affairs, Dottore; a cowardly braggart soldier, Capitano; and sometimes foolish, sometimes sly servants known as zanni. Arlecchino, or Harlequin was the most popular of the comic servants.' (长句高亮), 'blocked by Pantalone and Dottore.', 'fused their own personalities with those of the characters,', 'comic interaction on the spur of the moment.'。她没写意思，长句高亮我按其中的单词判断生词（意大利语人名 Pantalone/Dottore/Capitano/zanni/Arlecchino 和 commedia、Venetian 不计）。生词/熟词僻义是我按词义判断的（suggest、stock、figures、affairs、blocked、moment 记为熟词僻义）。27-5、27-6、27-7 没有高亮，没算。话题：戏剧/历史。",
+  "method_version": 1,
+  "source": "截图 2026-11-02 22:26"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
