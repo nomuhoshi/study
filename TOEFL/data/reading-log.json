@@ -3337,6 +3337,86 @@
   "own_meanings": "conventions 惯例; commedia 艺术喜剧; improvisatory 即兴的; suggest 暗示; nature 性质; would 一种假设的口气，按常理会让人觉得; stock 库存; stoick characters（应为 stock characters）固定角色; comic 滑稽; comic figures 滑稽人物; lecherous 好色的; miserly 吝啬的; venetian 威尼斯人; venice 威尼斯; foolish 愚蠢的; pedant 卖弄学问的人; neighbor's affaire（应为 affairs）邻居事务; cowardly 胆小的; braggart 吹牛; sly 狡猾的; servants 仆人们; commedia 艺术喜剧; block 阻挠; blocked by 被x阻挠; fused 融合; improvisation 即兴; personalities 性格; comic interaction 喜剧互动; supr（应为 spur）马刺; on the spur 一时冲动"
  },
  {
+  "date": "2026-11-03",
+  "date_estimated": false,
+  "passage": "27-5",
+  "kind": "日常",
+  "topic": "戏剧/历史",
+  "tokens": 34,
+  "unknown": 5,
+  "polysemy": 6,
+  "rate": 14.7,
+  "unclear_rate": 32.4,
+  "content_types": 29,
+  "unknown_types": 4,
+  "polysemy_types": 5,
+  "high": 72.2,
+  "mid": 60.0,
+  "low": 66.7,
+  "band_types": {
+   "high": 18,
+   "mid": 5,
+   "low": 6
+  },
+  "words": "clown, entangle, lazzi, sword",
+  "poly_words": "bit, business, character, piece, standard",
+  "unknown_lemmas": [
+   "clown",
+   "entangle",
+   "lazzi",
+   "sword"
+  ],
+  "poly_lemmas": [
+   "bit",
+   "business",
+   "character",
+   "piece",
+   "standard"
+  ],
+  "note": "27-5。高亮：characters, standard lazzi, bits, physical comic activity or 'business'., entangled, sword, Twentieth, clowns, pieces of physic business。她没写意思，生词/熟词僻义是我按词义判断的（characters、standard、bits、business、pieces 记为熟词僻义；Twentieth 是序数词不计；原文 physic business 可能是 physical business 的笔误，physic 没计；Laurel and Hardy、Ma Brothers 是人名不计；clowns 在 27-2 学过，这次又高亮，按生词计）。话题：戏剧/历史。",
+  "method_version": 1,
+  "source": "截图 2026-11-04 00:11（凌晨6点前记前一天）"
+ },
+ {
+  "date": "2026-11-03",
+  "date_estimated": false,
+  "passage": "27-6",
+  "kind": "日常",
+  "topic": "戏剧/历史",
+  "tokens": 33,
+  "unknown": 3,
+  "polysemy": 5,
+  "rate": 9.1,
+  "unclear_rate": 24.2,
+  "content_types": 31,
+  "unknown_types": 3,
+  "polysemy_types": 4,
+  "high": 90.9,
+  "mid": 42.9,
+  "low": 50.0,
+  "band_types": {
+   "high": 22,
+   "mid": 7,
+   "low": 2
+  },
+  "words": "conventional, duet, manuscript",
+  "poly_words": "business, entrance, exit, speech",
+  "unknown_lemmas": [
+   "conventional",
+   "duet",
+   "manuscript"
+  ],
+  "poly_lemmas": [
+   "business",
+   "entrance",
+   "exit",
+   "speech"
+  ],
+  "note": "27-6。高亮：conventional entrance, exit speeches, duets, Renaissance, manuscripts, comic business。她没写意思，生词/熟词僻义是我按词义判断的（entrance、exit、speeches、business 记为熟词僻义；Renaissance 在 27-1 学过，这次又高亮，但词性标注没统计到，没计）。话题：戏剧/历史。",
+  "method_version": 1,
+  "source": "截图 2026-11-04 00:11（凌晨6点前记前一天）"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
