@@ -3373,9 +3373,10 @@
    "piece",
    "standard"
   ],
-  "note": "27-5。高亮：characters, standard lazzi, bits, physical comic activity or 'business'., entangled, sword, Twentieth, clowns, pieces of physic business。她没写意思，生词/熟词僻义是我按词义判断的（characters、standard、bits、business、pieces 记为熟词僻义；Twentieth 是序数词不计；原文 physic business 可能是 physical business 的笔误，physic 没计；Laurel and Hardy、Ma Brothers 是人名不计；clowns 在 27-2 学过，这次又高亮，按生词计）。话题：戏剧/历史。",
+  "note": "27-5。高亮：characters, standard lazzi, bits, physical comic activity or 'business'., entangled, sword, Twentieth, clowns, pieces of physic business。她没写意思，生词/熟词僻义是我按词义判断的（characters、standard、bits、business、pieces 记为熟词僻义；Twentieth 是序数词不计；原文 physic business 可能是 physical business 的笔误，physic 没计；Laurel and Hardy、Ma Brothers 是人名不计；clowns 在 27-2 学过，这次又高亮，按生词计）。话题：戏剧/历史。 她已写全意思（见 own_meanings），所有高亮词都有意思。",
   "method_version": 1,
-  "source": "截图 2026-11-04 00:11（凌晨6点前记前一天）"
+  "source": "截图 2026-11-04 00:11（凌晨6点前记前一天）",
+  "own_meanings": "characters 角色; standard 固定的; lazzi 滑稽的（应为名词：滑稽动作、套路）; bits 一小段; physical 肢体; activity 动作; business 舞台上的小动作; entangled 被缠住; sword 剑; twentieth 第二十; clowns 小丑; pieces of 一段段; physical business 肢体表演（她自己把笔记里的 physic 改成了 physical）"
  },
  {
   "date": "2026-11-03",
@@ -3412,9 +3413,10 @@
    "exit",
    "speech"
   ],
-  "note": "27-6。高亮：conventional entrance, exit speeches, duets, Renaissance, manuscripts, comic business。她没写意思，生词/熟词僻义是我按词义判断的（entrance、exit、speeches、business 记为熟词僻义；Renaissance 在 27-1 学过，这次又高亮，但词性标注没统计到，没计）。话题：戏剧/历史。",
+  "note": "27-6。高亮：conventional entrance, exit speeches, duets, Renaissance, manuscripts, comic business。她没写意思，生词/熟词僻义是我按词义判断的（entrance、exit、speeches、business 记为熟词僻义；Renaissance 在 27-1 学过，这次又高亮，但词性标注没统计到，没计）。话题：戏剧/历史。 她已写全意思（见 own_meanings），所有高亮词都有意思。",
   "method_version": 1,
-  "source": "截图 2026-11-04 00:11（凌晨6点前记前一天）"
+  "source": "截图 2026-11-04 00:11（凌晨6点前记前一天）",
+  "own_meanings": "conventional 传统的; entrance 入场; exit speeches 退场台词; duets 二重奏; Renaissance 文艺复兴; manuscripts 手稿; comic business 滑稽的表演"
  },
  {
   "band_types": {
