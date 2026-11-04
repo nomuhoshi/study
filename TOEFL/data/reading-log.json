@@ -3419,6 +3419,55 @@
   "own_meanings": "conventional 传统的; entrance 入场; exit speeches 退场台词; duets 二重奏; Renaissance 文艺复兴; manuscripts 手稿; comic business 滑稽的表演"
  },
  {
+  "date": "2026-11-04",
+  "date_estimated": false,
+  "passage": "27-7",
+  "kind": "日常",
+  "topic": "戏剧/历史",
+  "tokens": 84,
+  "unknown": 15,
+  "polysemy": 6,
+  "rate": 17.9,
+  "unclear_rate": 25.0,
+  "content_types": 71,
+  "unknown_types": 12,
+  "polysemy_types": 5,
+  "high": 90.5,
+  "mid": 70.0,
+  "low": 33.3,
+  "band_types": {
+   "high": 42,
+   "mid": 20,
+   "low": 9
+  },
+  "words": "exaggerate, exaggerated, facilitate, horseplay, outfit, patchwork, robe, roughness, slapstick, slat, smack, costume(手动,2处)",
+  "poly_words": "academic, addition, character, hooked, strike",
+  "unknown_lemmas": [
+   "exaggerate",
+   "exaggerated",
+   "facilitate",
+   "horseplay",
+   "outfit",
+   "patchwork",
+   "robe",
+   "roughness",
+   "slapstick",
+   "slat",
+   "smack",
+   "costume(手动,2处)"
+  ],
+  "poly_lemmas": [
+   "academic",
+   "addition",
+   "character",
+   "hooked",
+   "strike"
+  ],
+  "note": "27-7。高亮：Costuming, facilitated improvisation, characters, patchwork jacket, academic robe, outfit, exaggerated, addition, slapstick, thin slats of wood, struck, smacking, horseplay, roughness, costumes, hooked。她没写意思，生词/熟词僻义是我按词义判断的（academic、addition、struck、hooked、characters 记为熟词僻义；costuming 和最后一个 costumes 她高亮了，各按 1 个生词手动计入，其余 costume 没高亮不计；facilitate 在 24-1 学过，这次又高亮，按生词计）。27-8 及之后没有高亮，没算。话题：戏剧/历史。",
+  "method_version": 1,
+  "source": "截图 2026-11-04 11:56"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
