@@ -3468,6 +3468,79 @@
   "source": "截图 2026-11-04 11:56"
  },
  {
+  "date": "2026-11-04",
+  "date_estimated": false,
+  "passage": "27-8",
+  "kind": "日常",
+  "topic": "戏剧/历史",
+  "tokens": 8,
+  "unknown": 0,
+  "polysemy": 1,
+  "rate": 0.0,
+  "unclear_rate": 12.5,
+  "content_types": 8,
+  "unknown_types": 0,
+  "polysemy_types": 1,
+  "high": 80.0,
+  "mid": 100.0,
+  "low": 100.0,
+  "band_types": {
+   "high": 5,
+   "mid": 1,
+   "low": 2
+  },
+  "words": "",
+  "poly_words": "audience",
+  "unknown_lemmas": [],
+  "poly_lemmas": [
+   "audience"
+  ],
+  "note": "27-8。高亮：with audiences。她没写意思，生词/熟词僻义是我按词义判断（audiences 记为熟词僻义，popular with audiences 是搭配）。话题：戏剧/历史。",
+  "method_version": 1,
+  "source": "截图 2026-11-04 12:29"
+ },
+ {
+  "date": "2026-11-04",
+  "date_estimated": false,
+  "passage": "27-9",
+  "kind": "日常",
+  "topic": "戏剧/历史",
+  "tokens": 39,
+  "unknown": 2,
+  "polysemy": 9,
+  "rate": 5.1,
+  "unclear_rate": 28.2,
+  "content_types": 33,
+  "unknown_types": 2,
+  "polysemy_types": 7,
+  "high": 73.9,
+  "mid": 75.0,
+  "low": 50.0,
+  "band_types": {
+   "high": 23,
+   "mid": 8,
+   "low": 2
+  },
+  "words": "characterize, expense",
+  "poly_words": "court, family, flexible, loss, profit, share, square",
+  "unknown_lemmas": [
+   "characterize",
+   "expense"
+  ],
+  "poly_lemmas": [
+   "court",
+   "family",
+   "flexible",
+   "loss",
+   "profit",
+   "share",
+   "square"
+  ],
+  "note": "27-9。高亮：families, characterize, Zealous, Faithful, Confident, Inspired, profit-sharing, profits, expenses, losses, flexible, squares, courts。她没写意思，生词/熟词僻义是我按词义判断的（characterize、Zealous、expenses 记为生词，其余记为熟词僻义；Gelosi 等意大利语剧团名不计）。27-7 的意思她发了一部分（stick、slat、struck、horseplay、roughness、costumes、hooked），没发全。话题：戏剧/历史。",
+  "method_version": 1,
+  "source": "截图 2026-11-04 12:29"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
