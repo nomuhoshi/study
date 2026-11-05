@@ -3541,6 +3541,137 @@
   "source": "截图 2026-11-04 12:29"
  },
  {
+  "date": "2026-11-05",
+  "date_estimated": false,
+  "passage": "28-1",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 35,
+  "unknown": 4,
+  "polysemy": 3,
+  "rate": 11.4,
+  "unclear_rate": 20.0,
+  "content_types": 32,
+  "unknown_types": 4,
+  "polysemy_types": 3,
+  "high": 100.0,
+  "mid": 62.5,
+  "low": 25.0,
+  "band_types": {
+   "high": 20,
+   "mid": 8,
+   "low": 4
+  },
+  "words": "lifelike(手动), snapshot, unicorn, untouched",
+  "poly_words": "faithfully, fiction, render",
+  "unknown_lemmas": [
+   "lifelike(手动)",
+   "snapshot",
+   "unicorn",
+   "untouched"
+  ],
+  "poly_lemmas": [
+   "faithfully",
+   "fiction",
+   "render"
+  ],
+  "note": "Passage 28 Naturalism and Nature in Art 的 28-1。高亮：faithfully, untouched snapshots, render lifelike, fictions, unicorn。她没写意思，生词/熟词僻义是我按词义判断的。话题：艺术。28-4 截图里没有高亮，没算。 lifelike 词性标注没统计到，手动加了 1 个生词。",
+  "method_version": 1,
+  "source": "截图 2026-11-05 19:18"
+ },
+ {
+  "date": "2026-11-05",
+  "date_estimated": false,
+  "passage": "28-2",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 61,
+  "unknown": 10,
+  "polysemy": 5,
+  "rate": 16.4,
+  "unclear_rate": 24.6,
+  "content_types": 51,
+  "unknown_types": 8,
+  "polysemy_types": 5,
+  "high": 94.3,
+  "mid": 45.5,
+  "low": 0.0,
+  "band_types": {
+   "high": 35,
+   "mid": 11,
+   "low": 5
+  },
+  "words": "admiration, curtain, depiction, gleefully, grape, naturalistic, peck, skillful",
+  "poly_words": "craft, fellow, fool, illustrate, turn",
+  "unknown_lemmas": [
+   "admiration",
+   "curtain",
+   "depiction",
+   "gleefully",
+   "grape",
+   "naturalistic",
+   "peck",
+   "skillful"
+  ],
+  "poly_lemmas": [
+   "craft",
+   "fellow",
+   "fool",
+   "illustrate",
+   "turn"
+  ],
+  "note": "Passage 28 Naturalism and Nature in Art 的 28-2。高亮：skillful naturalistic, craft, admiration, depiction, illustrated, grapes, flew down to peck at them., turn, curtain hanging over the picture, gleefully, fooled, intelligent fellow。她没写意思，生词/熟词僻义是我按词义判断的。话题：艺术。28-4 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-05 19:18"
+ },
+ {
+  "date": "2026-11-05",
+  "date_estimated": false,
+  "passage": "28-3",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 81,
+  "unknown": 14,
+  "polysemy": 5,
+  "rate": 17.3,
+  "unclear_rate": 23.5,
+  "content_types": 62,
+  "unknown_types": 11,
+  "polysemy_types": 4,
+  "high": 97.6,
+  "mid": 37.5,
+  "low": 0.0,
+  "band_types": {
+   "high": 42,
+   "mid": 16,
+   "low": 4
+  },
+  "words": "canvas, curtain, drapery, exquisite, floral, garland, homage, manipulate, patron, satin, unanswerable",
+  "poly_words": "decoration, draw, legend, troubling",
+  "unknown_lemmas": [
+   "canvas",
+   "curtain",
+   "drapery",
+   "exquisite",
+   "floral",
+   "garland",
+   "homage",
+   "manipulate",
+   "patron",
+   "satin",
+   "unanswerable"
+  ],
+  "poly_lemmas": [
+   "decoration",
+   "draw",
+   "legend",
+   "troubling"
+  ],
+  "note": "Passage 28 Naturalism and Nature in Art 的 28-3。高亮：paid homage, curtain, satin drapery drawn aside to, garland, decoration, legend, exquisite floral, troubling, unanswerable, patrons, manipulating, canvas。她没写意思，生词/熟词僻义是我按词义判断的。话题：艺术。28-4 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-05 19:18"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
