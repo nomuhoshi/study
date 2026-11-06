@@ -3672,6 +3672,54 @@
   "source": "截图 2026-11-05 19:18"
  },
  {
+  "date": "2026-11-06",
+  "date_estimated": false,
+  "passage": "28-4",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 51,
+  "unknown": 12,
+  "polysemy": 5,
+  "rate": 23.5,
+  "unclear_rate": 33.3,
+  "content_types": 43,
+  "unknown_types": 11,
+  "polysemy_types": 5,
+  "high": 82.8,
+  "mid": 37.5,
+  "low": 0.0,
+  "band_types": {
+   "high": 29,
+   "mid": 8,
+   "low": 5
+  },
+  "words": "context, creep, desirable, fleeting, fragile, garland, hover, symbolize, temporary, transitory, tulip(手动)",
+  "poly_words": "life, passage, piece, popular, still",
+  "unknown_lemmas": [
+   "context",
+   "creep",
+   "desirable",
+   "fleeting",
+   "fragile",
+   "garland",
+   "hover",
+   "symbolize",
+   "temporary",
+   "transitory",
+   "tulip(手动)"
+  ],
+  "poly_lemmas": [
+   "life",
+   "passage",
+   "piece",
+   "popular",
+   "still"
+  ],
+  "note": "Passage 28 Naturalism and Nature in Art 的 28-4。高亮：garland, Flower Piece, symbolizes, passage of time, fleeting, (temporary), tulip, desirable, creep out, fragile, transitory, hovers, context, still life, popular, Netherlands。她没写意思，生词/熟词僻义是我按词义判断的。tulip 词性标注没统计到，手动加 1 个生词；Netherlands、Flower Piece 是专名没算。garland 28-3 已高亮过，这里再算一次。28-5 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-06 17:32"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
