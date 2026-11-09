@@ -3830,6 +3830,63 @@
   "source": "截图 2026-11-09 00:52"
  },
  {
+  "date": "2026-11-09",
+  "date_estimated": false,
+  "passage": "29-2",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 97,
+  "unknown": 23,
+  "polysemy": 5,
+  "rate": 23.7,
+  "unclear_rate": 28.9,
+  "content_types": 83,
+  "unknown_types": 20,
+  "polysemy_types": 5,
+  "high": 85.7,
+  "mid": 54.5,
+  "low": 21.4,
+  "band_types": {
+   "high": 56,
+   "mid": 11,
+   "low": 14
+  },
+  "words": "azurite, biblical, binder, ceiling, chapel(手动), commission, compatible, deteriorate, fresco, giornata, hesitation, patchwork, perch, relatively, reluctantly, resort, scaffold, sculptor, touch, vermilion",
+  "poly_words": "ever, fresh, incredible, lead, pure",
+  "unknown_lemmas": [
+   "azurite",
+   "biblical",
+   "binder",
+   "ceiling",
+   "chapel(手动)",
+   "commission",
+   "compatible",
+   "deteriorate",
+   "fresco",
+   "giornata",
+   "hesitation",
+   "patchwork",
+   "perch",
+   "relatively",
+   "reluctantly",
+   "resort",
+   "scaffold",
+   "sculptor",
+   "touch",
+   "vermilion"
+  ],
+  "poly_lemmas": [
+   "ever",
+   "fresh",
+   "incredible",
+   "lead",
+   "pure"
+  ],
+  "note": "Passage 29 The Sistine Ceiling 的 29-2。高亮：biblical, ceiling, Chapel, frescoes, Commissioned, reluctantly, sculptor, perched, scaffolding, hesitation, purest, fresh, compatible, azurite, vermilion, lead-based, deteriorate, incredible, patchwork, giornata, relatively, if ever, resorting, touch-up, binder。她没写意思，生词/熟词僻义是我按词义判断的。词性标注漏掉的手动补：Sistine Chapel 的 Chapel（专名）+1 词 +1 生词；giornata 第一处被标成专名，+1 词 +1 生词。ceiling、fresco 她只标了一处，按规则同词每处都算。plaster、pigments、lime、wet 这次没标，按已知算。fresco、binder 是 29-1 标过又再标。lead-based 的 lead 是熟词僻义（铅）。",
+  "method_version": 1,
+  "source": "截图 2026-11-09 14:32"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
