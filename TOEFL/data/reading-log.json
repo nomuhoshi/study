@@ -3896,6 +3896,56 @@
   "text": "The biblical scenes created by Michelangelo for the ceiling of the Sistine Chapel in the Vatican City are among the world's most famous frescoes. Commissioned in 1508. Michelangelo began his work reluctantly, considering himself more of a sculptor than a painter, and spent four years perched on scaffolding, painting some 300 figures across about 5,000 square feet of ceiling. Despite his initial hesitation, Michelangelo followed the purest fresco tradition of the time, applying his pigments mixed in water directly to fresh lime plaster and choosing only those that are chemically compatible, avoiding azurite, vermilion, and lead-based colors, all of which deteriorate under the alkaline conditions of the lime. The incredible scale of the task required him to execute each scene in patchwork, with about five square meters worth of wet plaster applied per giornata, or \"day's work.\" The use of plaster relatively low in lime which dries more slowly, bought him some extra time, but it is clear that Michelangelo painted each giornata extremely quickly, and rarely, if ever, resorting to finishing a section with touch-up paint containing binder."
  },
  {
+  "date": "2026-11-10",
+  "date_estimated": false,
+  "passage": "29-3",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 40,
+  "unknown": 18,
+  "polysemy": 1,
+  "rate": 45.0,
+  "unclear_rate": 47.5,
+  "content_types": 37,
+  "unknown_types": 16,
+  "polysemy_types": 1,
+  "high": 78.9,
+  "mid": 36.4,
+  "low": 14.3,
+  "band_types": {
+   "high": 19,
+   "mid": 11,
+   "low": 7
+  },
+  "words": "accumulate, blacken, blessing, candle, coating, completion, darken, dirt, dirty, dull, engulf, fresco, smoke, soot, splendid, witness",
+  "poly_words": "cover",
+  "unknown_lemmas": [
+   "accumulate",
+   "blacken",
+   "blessing",
+   "candle",
+   "coating",
+   "completion",
+   "darken",
+   "dirt",
+   "dirty",
+   "dull",
+   "engulf",
+   "fresco",
+   "smoke",
+   "soot",
+   "splendid",
+   "witness"
+  ],
+  "poly_lemmas": [
+   "cover"
+  ],
+  "text": "Over the years following their completion, the Vatican frescoes accumulated a coating of soot and dirt that dulled and darkened the images. In 1787 the German writer Goethe made the following observation: \"On 2nd February we went to the Sistine Chapel to witness the ceremony of the blessing of the candles. I thought it is precisely these candles that over three centuries have blackened these splendid frescoes; this is the incense that has not only with its smoke covered over the sun itself of art, but with every year continues to dirty it and will finally engulf it in darkness.\"",
+  "note": "Passage 29 The Sistine Ceiling 的 29-3。高亮：completion, Vatican frescoes accumulated, coating, soot, dirt, dulled, darkened, witness, blessing, candles, blackened, splendid, smoke covered over the sun itself of art, dirty, engulf。她没写意思，生词/熟词僻义是我按词义判断的。fresco、candle 各出现 2 处，只标了第一处，按规则每处都算。Vatican 是专名没算。incense 她没标，按已知算。这段很短（40 个实词），所以识词率波动大。消息时间 11/11 04:29，按 6 点规则记 11/10。29-4 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-11 04:29"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
