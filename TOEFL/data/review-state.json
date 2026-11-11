@@ -133,7 +133,7 @@
  ],
  "daily_tail": {
   "rule": "每次处理完她发的图片后，最下面附 10–20 个她学过的词（最旧的优先），带词性/IPA/中文意思和例句。她把复习记录发过来就视为复习完成，不用再问“复习完了吗”。",
-  "next_from_passage": "13-3:partially",
+  "next_from_passage": "13-5:superior",
   "shown": [
    {
     "date": "2026-11-09",
@@ -175,6 +175,29 @@
      "mating"
     ],
     "sentence_source": "我编的例句（旧段落原文没存）",
+    "reviewed_by_user": null
+   },
+   {
+    "date": "2026-11-11",
+    "passage": "13-3~13-5",
+    "words": [
+     "partially",
+     "resonance",
+     "search",
+     "submerge",
+     "vibration",
+     "forte",
+     "instrument",
+     "resonate",
+     "vocalize",
+     "chorus",
+     "conduct",
+     "dawn",
+     "defend",
+     "dusk",
+     "predator"
+    ],
+    "sentence_source": "resonance、conduct、dusk、dawn、defend 用原文；其余我编的",
     "reviewed_by_user": null
    }
   ]

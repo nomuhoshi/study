@@ -3948,6 +3948,56 @@
   "own_meanings_source": "消息 2026-11-11 04:36"
  },
  {
+  "date": "2026-11-11",
+  "date_estimated": false,
+  "passage": "29-4",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 54,
+  "unknown": 13,
+  "polysemy": 4,
+  "rate": 24.1,
+  "unclear_rate": 31.5,
+  "content_types": 49,
+  "unknown_types": 13,
+  "polysemy_types": 4,
+  "high": 88.5,
+  "mid": 46.7,
+  "low": 25.0,
+  "band_types": {
+   "high": 26,
+   "mid": 15,
+   "low": 8
+  },
+  "words": "binder, blistering, characterization, darkening, dip, dire, leak, restorer, scrub, somber, sponge, touch, varnish",
+  "poly_words": "compound, decline, let, pass",
+  "unknown_lemmas": [
+   "binder",
+   "blistering",
+   "characterization",
+   "darkening",
+   "dip",
+   "dire",
+   "leak",
+   "restorer",
+   "scrub",
+   "somber",
+   "sponge",
+   "touch",
+   "varnish"
+  ],
+  "poly_lemmas": [
+   "compound",
+   "decline",
+   "let",
+   "pass"
+  ],
+  "text": "While Goethe's dire prediction did not come completely to pass the slow darkening of the frescoes led to a characterization of Michelangelo as a relatively somber artist with little appreciation for color. Deposits of salt from rainwater let in by the leaking roof and from within the building materials themselves compounded the decline, leading to blistering of the paint. Eventually, a full-time restorer was appointed to maintain the frescoes. Salt crystals and dirt were removed by scrubbing with sponges dipped in wine, paints containing binder were used to touch up sections, and varnish was applied to \"renew\" the colors.",
+  "note": "Passage 29 The Sistine Ceiling 的 29-4。高亮：dire, did not come completely to pass, darkening, characterization, somber, let in by the leaking roof, compounded, decline, blistering, restorer, scrubbing, sponges dipped in wine, binder, up sections, varnish。她没写意思，生词/熟词僻义是我按词义判断的。darkening 是 29-3 标过 darkened 又再标；binder 是第三次标。touch up sections 里的 touch 按生词算（29-2 也是）。dirt、fresco、relatively 这次没标，按已知算。29-5 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-11 12:19"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
