@@ -133,7 +133,7 @@
  ],
  "daily_tail": {
   "rule": "每次处理完她发的图片后，最下面附 10–20 个她学过的词（最旧的优先），带词性/IPA/中文意思和例句。她把复习记录发过来就视为复习完成，不用再问“复习完了吗”。",
-  "next_from_passage": "13-5:superior",
+  "next_from_passage": "13-6:undisturbed",
   "shown": [
    {
     "date": "2026-11-09",
@@ -198,6 +198,29 @@
      "predator"
     ],
     "sentence_source": "resonance、conduct、dusk、dawn、defend 用原文；其余我编的",
+    "reviewed_by_user": null
+   },
+   {
+    "date": "2026-11-12",
+    "passage": "13-5~13-6",
+    "words": [
+     "superior",
+     "territory",
+     "track",
+     "wonderfully",
+     "ambient",
+     "audio",
+     "channel",
+     "fingerprint",
+     "flycatcher",
+     "niche",
+     "paradise",
+     "specialized",
+     "stability",
+     "territorial",
+     "tropical"
+    ],
+    "sentence_source": "territory 用原文；其余我编的",
     "reviewed_by_user": null
    }
   ]

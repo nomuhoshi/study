@@ -4000,6 +4000,52 @@
   "own_meanings_source": "截图 2026-11-11 15:46"
  },
  {
+  "date": "2026-11-12",
+  "date_estimated": false,
+  "passage": "29-5",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 47,
+  "unknown": 11,
+  "polysemy": 4,
+  "rate": 23.4,
+  "unclear_rate": 31.9,
+  "content_types": 41,
+  "unknown_types": 10,
+  "polysemy_types": 3,
+  "high": 84.0,
+  "mid": 62.5,
+  "low": 25.0,
+  "band_types": {
+   "high": 25,
+   "mid": 8,
+   "low": 8
+  },
+  "words": "acrylic, dilute, grime, maintenance, painstakingly, reinforce, restore, soot, touch, varnish",
+  "poly_words": "cosmetic, film, solution",
+  "unknown_lemmas": [
+   "acrylic",
+   "dilute",
+   "grime",
+   "maintenance",
+   "painstakingly",
+   "reinforce",
+   "restore",
+   "soot",
+   "touch",
+   "varnish"
+  ],
+  "poly_lemmas": [
+   "cosmetic",
+   "film",
+   "solution"
+  ],
+  "text": "The net effect of several hundred years of this cosmetic maintenance was a dark film consisting of layers of dust, soot, and varnish entirely covering the frescoes. In 1980 a massive effort began to restore Michelangelo's work to its original glory. Restorers painstakingly removed the layers of grime and varnish, the touch-up paint and the salt deposits with solutions appropriate for each layer. A dilute solution of acrylic paint was applied only when absolutely necessary to reinforce the existing paint.",
+  "note": "Passage 29 The Sistine Ceiling 的 29-5。高亮：cosmetic maintenance, dark film, soot, varnish, restore, painstakingly, grime, touch-up paint, solutions, dilute, acrylic, reinforce。她没写意思，生词/熟词僻义是我按词义判断的。soot 是 29-3 标过又再标；varnish 是 29-4 标过又再标，本段出现 2 处，只标了第一处，按规则每处都算；touch-up 的 touch 按生词算；solution 出现 2 处按熟词僻义算。截图顶部时间 2026-11-12 18:04。29-6 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-12 18:05"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
