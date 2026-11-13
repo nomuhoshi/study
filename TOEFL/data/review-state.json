@@ -133,7 +133,7 @@
  ],
  "daily_tail": {
   "rule": "每次处理完她发的图片后，最下面附 10–20 个她学过的词（最旧的优先），带词性/IPA/中文意思和例句。她把复习记录发过来就视为复习完成，不用再问“复习完了吗”。",
-  "next_from_passage": "13-6:undisturbed",
+  "next_from_passage": "14-1:nest",
   "shown": [
    {
     "date": "2026-11-09",
@@ -221,6 +221,29 @@
      "tropical"
     ],
     "sentence_source": "territory 用原文；其余我编的",
+    "reviewed_by_user": null
+   },
+   {
+    "date": "2026-11-13",
+    "passage": "13-6~14-1",
+    "words": [
+     "undisturbed",
+     "audiotape",
+     "banquet",
+     "broadcast",
+     "primarily",
+     "specific",
+     "station",
+     "tune",
+     "abandon",
+     "beekeeper",
+     "deteriorate",
+     "disaster",
+     "elicit",
+     "honeybee",
+     "induce"
+    ],
+    "sentence_source": "我编的例句（旧段落原文没存）",
     "reviewed_by_user": null
    }
   ]

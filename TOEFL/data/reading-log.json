@@ -4048,6 +4048,54 @@
   "own_meanings_source": "消息 2026-11-12 18:11"
  },
  {
+  "date": "2026-11-13",
+  "date_estimated": false,
+  "passage": "29-6",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 49,
+  "unknown": 12,
+  "polysemy": 3,
+  "rate": 24.5,
+  "unclear_rate": 30.6,
+  "content_types": 48,
+  "unknown_types": 12,
+  "polysemy_types": 3,
+  "high": 93.5,
+  "mid": 23.1,
+  "low": 33.3,
+  "band_types": {
+   "high": 31,
+   "mid": 13,
+   "low": 3
+  },
+  "words": "accustomed, aging, chapel(手动), critic, debate, dull, intent, override, quo, restoration, shocking, vigorous",
+  "poly_words": "cast, interpret, tone",
+  "unknown_lemmas": [
+   "accustomed",
+   "aging",
+   "chapel(手动)",
+   "critic",
+   "debate",
+   "dull",
+   "intent",
+   "override",
+   "quo",
+   "restoration",
+   "shocking",
+   "vigorous"
+  ],
+  "poly_lemmas": [
+   "cast",
+   "interpret",
+   "tone"
+  ],
+  "text": "Over the course of the next fourteen years, the bright colors that emerged were almost shocking to those accustomed to the dull earth tones that had been the status quo for centuries. Indeed, the work at the Sistine Chapel has led to vigorous debate about the role of restoration. Restorers often cast themselves in the role of interpreting the original artist's intent, using modern materials to override the effects of time. However, some critics believe that aging is part of the natural evolution of art and, therefore, new is not necessarily better.",
+  "note": "Passage 29 The Sistine Ceiling 的 29-6。高亮：shocking, accustomed, dull, tones, quo, Sistine Chapel, vigorous debate, restoration, cast, interpreting, intent, override, critics, aging。她没写意思，生词/熟词僻义是我按词义判断的。词性标注漏掉的手动补：Sistine Chapel 的 Chapel（专名）+1 词 +1 生词（29-2 也这样补）。dull 是 29-3 标过 dulled 又再标；restoration 与 29-4 的 restorer、29-5 的 restore 同词根。status quo 里只标了 quo，status 按已知算。30-1 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-13 19:55"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
