@@ -4151,6 +4151,52 @@
   "own_meanings_source": "消息 2026-11-14 17:32"
  },
  {
+  "date": "2026-11-14",
+  "date_estimated": false,
+  "passage": "30-2",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 78,
+  "unknown": 8,
+  "polysemy": 9,
+  "rate": 10.3,
+  "unclear_rate": 21.8,
+  "content_types": 63,
+  "unknown_types": 8,
+  "polysemy_types": 5,
+  "high": 90.5,
+  "mid": 62.5,
+  "low": 60.0,
+  "band_types": {
+   "high": 42,
+   "mid": 16,
+   "low": 5
+  },
+  "words": "choreograph, conscious, flip, free-for-alls(手动), improvisation, mental, multitude, rational",
+  "poly_words": "advance, attractive, bother, chance, prisoner",
+  "unknown_lemmas": [
+   "choreograph",
+   "conscious",
+   "flip",
+   "free-for-alls(手动)",
+   "improvisation",
+   "mental",
+   "multitude",
+   "rational"
+  ],
+  "poly_lemmas": [
+   "advance",
+   "attractive",
+   "bother",
+   "chance",
+   "prisoner"
+  ],
+  "text": "Wishing his dances to possess some of the unpredictability of life itself, Cunningham began to make choreographic use of chance. For Cunningham, chance did not mean chaos, and his dances were not improvisations or free-for-alls. Typically, he prepared in advance a multitude of movement possibilities-more than he may actually have needed in a work-and then decided which sequences(groups of movements) he would use by some simple device, such as flipping a coin. Or he would choreograph works in which the episodes might be performed in any order. Since Cunningham prepared so much, one might ask why he bothered with chance at all. He would reply that chance can reveal to a choreographer ways of combining movements that the rational, conscious mind might not have otherwise thought of on its own. All people are, to some extent, prisoners of their mental habits. But Cunningham believed that through chance, choreographers could free themselves from habit and discover attractive new movement sequences.",
+  "note": "Passage 30 The Choreography of Merce Cunningham 的 30-2。高亮：use of chance, improvisations, free-for-alls, in advance, multitude, possibilities, flipping a coin, choreograph, one might ask, bothered, rational conscious mind might not have otherwise thought of on its own, prisoners, mental habits, attractive。她没写意思，生词/熟词僻义是我按词义判断的。free-for-alls 被拆成 free + alls，手动把 free 那处改成 1 个生词（总词数不变）。chance 出现 5 处、按熟词僻义算（不影响识词率）。improvisation 与 27-3 的 improvised 同词族。attractive 是她正在用键盘联想选中的词，我按已高亮算。possibilities、one might ask、in advance 按已知/熟词僻义短语处理。choreographer 这次没标，按已知算。30-3、30-4 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-14 17:36"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
