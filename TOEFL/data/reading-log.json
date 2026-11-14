@@ -4146,7 +4146,9 @@
   "text": "Choreographer Merce Cunningham was an experimentalist who, in his final years, was almost routinely hailed as the world's greatest living choreographer. Cunningham productions—many of them collaborations with composer John Cage—aroused much controversy. Three aspects of Cunningham's choreographic theories were especially provocative: his use of chance and indeterminacy (not precisely determining the completion of his works but leaving some choices up to the performers); his treatment of stage space; and his tendency to regard the components of a dance production as independent entities.",
   "note": "Passage 30 The Choreography of Merce Cunningham 的 30-1。高亮：Choreographer Merce Cunningham, experimentalist, routinely hailed, composer, aroused much controversy, provocative, indeterminacy, completion, choices up (to), treatment, stage space, tendency, components of a dance production, independent entities。她没写意思，生词/熟词僻义是我按词义判断的。开头 Choreographer 被标成专名没统计，手动补 +1 词 +1 生词（后面 greatest living choreographer 已统计）。completion 是 29-3 标过又再标。independent 在 independent entities 里她一起标了，但我只算 entities 为生词。production 出现 2 处、choice 等按熟词僻义算。截图顶部时间 2026-11-14 17:04。30-2 截图里没有高亮，没算。",
   "method_version": 1,
-  "source": "截图 2026-11-14 17:10"
+  "source": "截图 2026-11-14 17:10",
+  "own_meanings": "choreographer 编舞家; choreo 舞蹈; graph 写; experimentalist 实验主义者; routinely 惯常的（应为：惯常地、例行地，副词）; hail as 被公认为; composer 作曲家; arouse 引起; controversy 争议; aroused much controversy 引起了很多争议; provacative（应为 provocative）引发争议; indeterminacy 不确定性; completion 完成; up to 由x决定; performers 表演者; treatment 处理方式; stage space 舞台空间; tendency 倾向; components 组成部分; production 演出作品; entity 实体; independent entities 独立的实体",
+  "own_meanings_source": "消息 2026-11-14 17:32"
  },
  {
   "band_types": {
