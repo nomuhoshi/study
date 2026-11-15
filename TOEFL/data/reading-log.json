@@ -4197,6 +4197,50 @@
   "source": "截图 2026-11-14 17:36"
  },
  {
+  "date": "2026-11-15",
+  "date_estimated": false,
+  "passage": "30-3",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 54,
+  "unknown": 11,
+  "polysemy": 2,
+  "rate": 20.4,
+  "unclear_rate": 24.1,
+  "content_types": 43,
+  "unknown_types": 9,
+  "polysemy_types": 2,
+  "high": 96.7,
+  "mid": 30.0,
+  "low": 0.0,
+  "band_types": {
+   "high": 30,
+   "mid": 10,
+   "low": 3
+  },
+  "words": "characteristic, decay, differ, fixity, format, indeterminacy, inherent, preoccupation, theatrical",
+  "poly_words": "argue, grant",
+  "unknown_lemmas": [
+   "characteristic",
+   "decay",
+   "differ",
+   "fixity",
+   "format",
+   "indeterminacy",
+   "inherent",
+   "preoccupation",
+   "theatrical"
+  ],
+  "poly_lemmas": [
+   "argue",
+   "grant"
+  ],
+  "text": "A theatrical preoccupation with indeterminacy is perhaps to be taken for granted in an age of mechanical formats, such as films, recordings, and television. One characteristic of the mechanical is fixity: once something is on film, it will stay that way forever—or at least until the film decays. But even when live performers are trying to speak the same words, sing the same music, or dance the same steps, every live performance differs, if only slightly, from every other live performance. Therefore, it can be argued that in his concern for indeterminacy, Cunningham was calling attention to the indeterminacy inherent in all live theater.",
+  "note": "Passage 30 The Choreography of Merce Cunningham 的 30-3。高亮：theatrical preoccupation, indeterminacy, be taken for granted, formats, characteristic, fixity, decays, every live performance differs, argued, inherent。她没写意思，生词/熟词僻义是我按词义判断的。indeterminacy 是 30-1 标过又再标，本段出现 3 处，只标了第一处，按规则每处都算。take for granted 里的 grant 按熟词僻义算。live 没单独标，按已知算。截图顶部时间 2026-11-15 14:24。30-4 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-15 14:24"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
