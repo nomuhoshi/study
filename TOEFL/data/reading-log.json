@@ -4239,8 +4239,55 @@
   "note": "Passage 30 The Choreography of Merce Cunningham 的 30-3。高亮：theatrical preoccupation, indeterminacy, be taken for granted, formats, characteristic, fixity, decays, every live performance differs, argued, inherent。她没写意思，生词/熟词僻义是我按词义判断的。indeterminacy 是 30-1 标过又再标，本段出现 3 处，只标了第一处，按规则每处都算。take for granted 里的 grant 按熟词僻义算。live 没单独标，按已知算。截图顶部时间 2026-11-15 14:24。30-4 截图里没有高亮，没算。",
   "method_version": 1,
   "source": "截图 2026-11-15 14:24",
-  "own_meanings": "theatrical 戏剧的; preoccupation 关注（更准确：专注、一心想着）; indeterminacy 不确定性; be taken for granted 被视为理所当然; formats 形式; characteristic 特点; fixity 固定不变; decays 老化; live performance 现场表演; differs 不一样; argued 认为; inherent 内在的（原写“内在的人”，多了“人”字）。她还尝试把 indeterminacy 拆成 indeter / minacy（拆法不对，应为 in-de-termin-acy）",
+  "own_meanings": "theatrical 戏剧的; preoccupation 关注（更准确：专注、一心想着）; indeterminacy 不确定性; be taken for granted 被视为理所当然; formats 形式; characteristic 特点; fixity 固定不变; decays 老化; live performance 现场表演; differs 不一样; argued 认为; inherent 内在的（原写“内在的人”，多了“人”字）。她还尝试把 indeterminacy 拆成 indeter / minacy（拆法不对，应为 in-de-termin-acy）。后来她按我的纠正写了词根：in-不; de-完全; termin 界限; -acy 状态（拆对了，截图 2026-11-16 12:18）",
   "own_meanings_source": "消息 2026-11-15 14:33"
+ },
+ {
+  "date": "2026-11-16",
+  "date_estimated": false,
+  "passage": "30-4",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 48,
+  "unknown": 8,
+  "polysemy": 6,
+  "rate": 16.7,
+  "unclear_rate": 29.2,
+  "content_types": 44,
+  "unknown_types": 8,
+  "polysemy_types": 6,
+  "high": 82.4,
+  "mid": 40.0,
+  "low": 0.0,
+  "band_types": {
+   "high": 34,
+   "mid": 5,
+   "low": 3
+  },
+  "words": "ballerina(手动), choreographic, choreographically, danseur(手动), ensemble, heroine, roam, spectator",
+  "poly_words": "field, focus, frame, please, side, structure",
+  "unknown_lemmas": [
+   "ballerina(手动)",
+   "choreographic",
+   "choreographically",
+   "danseur(手动)",
+   "ensemble",
+   "heroine",
+   "roam",
+   "spectator"
+  ],
+  "poly_lemmas": [
+   "field",
+   "focus",
+   "frame",
+   "please",
+   "side",
+   "structure"
+  ],
+  "text": "A second characteristic of Cunningham's choreographic approach was his treatment of stage space. Whereas many dances are structured around a central focus—a ballerina or danseur, or a hero or heroine, who may be framed by an ensemble—Cunningham gave equal importance to all parts of the stage. Corners and sides were as important as center stage, and many things happened simultaneously in different stage areas. Instead of being choreographically guided toward a single point, the spectator's eye was left free to roam as it pleased across a field of activity.",
+  "note": "Passage 30 The Choreography of Merce Cunningham 的 30-4。高亮：choreographic, structured, central focus, ballerina, danseur, heroine, framed, ensemble, Corners and sides, choreographically, the spectator's eye was left free to roam as it pleased across a field of activity。她没写意思，生词/熟词僻义是我按词义判断的。词性标注漏掉的手动补：ballerina、danseur 被标成专名没统计，各 +1 词 +1 生词。最后一整句她整句高亮，我只算 spectator、roam 为生词，please/field 按熟词僻义；Corners and sides 里的 side 按熟词僻义（舞台侧面）。choreographic 与 30-1 的 choreographer 同词族。30-5 截图里没有高亮，没算。",
+  "method_version": 1,
+  "source": "截图 2026-11-16 12:18"
  },
  {
   "band_types": {
