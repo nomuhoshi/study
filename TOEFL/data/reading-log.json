@@ -4292,6 +4292,63 @@
   "own_meanings_source": "消息 2026-11-16 12:32"
  },
  {
+  "date": "2026-11-17",
+  "date_estimated": false,
+  "passage": "30-5",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 79,
+  "unknown": 19,
+  "polysemy": 9,
+  "rate": 24.1,
+  "unclear_rate": 35.4,
+  "content_types": 64,
+  "unknown_types": 18,
+  "polysemy_types": 6,
+  "high": 88.6,
+  "mid": 38.1,
+  "low": 12.5,
+  "band_types": {
+   "high": 35,
+   "mid": 21,
+   "low": 8
+  },
+  "words": "alter, belief, choreographic, coexist, coincide, decor, derive, detach, drastically, entity, excerpt, intermission, manifestation, radical, repertoire, scenery, theatrical, weave",
+  "poly_words": "illustrate, phrase, present, production, subject, term",
+  "unknown_lemmas": [
+   "alter",
+   "belief",
+   "choreographic",
+   "coexist",
+   "coincide",
+   "decor",
+   "derive",
+   "detach",
+   "drastically",
+   "entity",
+   "excerpt",
+   "intermission",
+   "manifestation",
+   "radical",
+   "repertoire",
+   "scenery",
+   "theatrical",
+   "weave"
+  ],
+  "poly_lemmas": [
+   "illustrate",
+   "phrase",
+   "present",
+   "production",
+   "subject",
+   "term"
+  ],
+  "text": "Finally, Cunningham regarded the components of a production-movement, music, decor—as coexisting independent entities. The dancers' steps were not phrased to coincide with the musical phrases; the scenery did not illustrate the choreography. Dance, music, and scenery simply occurred in the same space and time. The most radical manifestations of Cunningham's belief in the independence of theatrical elements occurred in what he termed \"Events.\" These 90-minute productions, performed without intermission, consisted of choreographic sequences from dances already in the Cunningham repertoire. Yet the sequences were not presented to the audience as detached excerpts. Instead, they were woven together and performed to musical scores other than those for the works from which they derived. Thus, Events presented old movements in a new context, and the change of context often drastically altered the effect of the movements. Through his Events, Cunningham emphasized that everything is subject to change.",
+  "method_version": 1,
+  "source": "截图 2026-11-17 22:54",
+  "note": "Passage 30 The Choreography of Merce Cunningham 的 30-5。高亮：production-movement(production 熟词僻义)、decor、coexisting、entities、phrased、coincide with、scenery、illustrate、radical manifestations、belief、theatrical、termed、intermission、choreographic、repertoire、detached excerpts、woven together、other than、derived、presented、drastically altered、subject to。她没写意思，生词/熟词僻义按词义判断。scenery 出现两次，按每个 token 各算一次（scenery 计 2 个生词 token）；phrase(d) 高亮 phrased，同段 musical phrases 也是 phrase 词元，按熟词僻义计 2 token；present(ed) 与 production(s) 同理各 2 token。entity、theatrical、choreographic 与 30-1/30-3/30-4 重复出现（再次高亮，按生词计）；illustrate 与 28-2 重复；drastically 与 14-4 复习词 drastic 同族。other than、subject to 是搭配，不单算词。30-6 截图下半部分露出但没有高亮，没算。"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
