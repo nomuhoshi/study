@@ -4351,6 +4351,53 @@
   "own_meanings_source": "消息 2026-11-17 23:22"
  },
  {
+  "date": "2026-11-18",
+  "date_estimated": false,
+  "passage": "30-6",
+  "kind": "日常",
+  "topic": "艺术",
+  "tokens": 45,
+  "unknown": 10,
+  "polysemy": 4,
+  "rate": 22.2,
+  "unclear_rate": 31.1,
+  "content_types": 43,
+  "unknown_types": 10,
+  "polysemy_types": 4,
+  "high": 87.0,
+  "mid": 50.0,
+  "low": 25.0,
+  "band_types": {
+   "high": 23,
+   "mid": 16,
+   "low": 4
+  },
+  "words": "cohere, exile, lush, outsider, pillow, sensuous, tropical, unmistakable, vain, quartet(手动)",
+  "poly_words": "creation, gulf, keep, manage",
+  "unknown_lemmas": [
+   "cohere",
+   "exile",
+   "lush",
+   "outsider",
+   "pillow",
+   "sensuous",
+   "tropical",
+   "unmistakable",
+   "vain",
+   "quartet(手动)"
+  ],
+  "poly_lemmas": [
+   "creation",
+   "gulf",
+   "keep",
+   "manage"
+  ],
+  "text": "Each of Cunningham's dances managed to have its own special mood. Although there is nothing really tropical about Rainforest, the choreography is sensuous, and Andy Warhol's decor of floating silver pillows somehow seems appropriate for such a lush creation. Quartet, which, despite its title, is a dance for five—one outsider keeps trying in vain to join a group of four people—can be interpreted as an image of social exile or the gulf between generations. Cunningham's dances consist of many different elements, but like objects in a landscape, they may cohere to produce an unmistakable atmosphere.",
+  "method_version": 1,
+  "source": "截图 2026-11-18 13:34",
+  "note": "Passage 30 The Choreography of Merce Cunningham 的 30-6。高亮：managed to、tropical、sensuous、floating silver pillows、lush creation、Quartet、outsider keeps、vain、exile、gulf、cohere、unmistakable。她没写意思，生词/熟词僻义是我按词义判断的。词性标注把 Quartet 标成专名没统计，手动 +1 词 +1 生词（舞蹈作品名，同时是 quartet 四重奏/四人组这个词）。floating silver pillows 整个短语高亮，只算 pillows 为生词（floating、silver 按已会）；lush creation 里 creation 按熟词僻义（作品）；managed to 的 manage（设法做到）、outsider keeps trying 的 keep（一直做）按熟词僻义；gulf 按熟词僻义（鸿沟，常见义是海湾）；in vain 的 vain 按生词。Rainforest 是作品名（专名）不计。原文里 five—one outsider 和 four people—can 的破折号，截图中显示成连字符，T 里按破折号还原。decor 在 30-5 高亮过，这次没高亮，按已会。"
+ },
+ {
   "band_types": {
    "high": 48,
    "low": 3,
