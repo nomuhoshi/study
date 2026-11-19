@@ -133,7 +133,7 @@
  ],
  "daily_tail": {
   "rule": "每次处理完她发的图片后，最下面附 10–20 个她学过的词（最旧的优先），带词性/IPA/中文意思和例句。她把复习记录发过来就视为复习完成，不用再问“复习完了吗”。",
-  "next_from_passage": "16-2:sized",
+  "next_from_passage": "16-4:cetacean",
   "shown": [
    {
     "date": "2026-11-09",
@@ -403,6 +403,29 @@
      "relative",
      "thermoregulate",
      "volume"
+    ],
+    "sentence_source": "我编的例句（旧段落原文没存）",
+    "reviewed_by_user": null
+   },
+   {
+    "date": "2026-11-19",
+    "passage": "16-2~16-4",
+    "words": [
+     "sized",
+     "wet",
+     "blubber",
+     "conductor",
+     "constitute",
+     "inhabit",
+     "insulate",
+     "pinniped",
+     "polar",
+     "seal",
+     "subcutaneous",
+     "temperate",
+     "walrus",
+     "adaptation",
+     "aquatic"
     ],
     "sentence_source": "我编的例句（旧段落原文没存）",
     "reviewed_by_user": null
