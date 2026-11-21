@@ -133,7 +133,7 @@
  ],
  "daily_tail": {
   "rule": "每次处理完她发的图片后，最下面附 10–20 个她学过的词（最旧的优先），带词性/IPA/中文意思和例句。她把复习记录发过来就视为复习完成，不用再问“复习完了吗”。",
-  "next_from_passage": "17-1:dispersal",
+  "next_from_passage": "17-4:natal",
   "shown": [
    {
     "date": "2026-11-09",
@@ -449,6 +449,29 @@
      "subsequent",
      "budget",
      "calorie"
+    ],
+    "sentence_source": "我编的例句（旧段落原文没存）",
+    "reviewed_by_user": null
+   },
+   {
+    "date": "2026-11-21",
+    "passage": "17-1~17-4",
+    "words": [
+     "dispersal",
+     "otherwise",
+     "burrow",
+     "developmental",
+     "disperse",
+     "pertinent",
+     "squirrel",
+     "adulthood",
+     "associate",
+     "inbreeding",
+     "juvenile",
+     "manifest",
+     "offspring",
+     "assistance",
+     "avoidance"
     ],
     "sentence_source": "我编的例句（旧段落原文没存）",
     "reviewed_by_user": null
