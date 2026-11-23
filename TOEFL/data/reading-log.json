@@ -4853,5 +4853,57 @@
   "method_version": 1,
   "source": "截图 2026-11-22 18:44",
   "note": "2021 套 Passage 2 Machines and Manufacturing 的 2-2。她没写意思，生词/熟词僻义是我按词义判断。截图里有几处标点录入问题，T 里还原：vastly increased 后的逗号去掉（原文是 vastly increased power），England, France 后缺的逗号补上、Russia 后的句号改逗号，1780s in France 后的句号改逗号，the United States 后的句号改逗号。radical 在 30-5 高亮过，这次又高亮，按生词计；diffusion 在 2-1 没高亮（只高亮了 diffused），这次高亮，按生词计；mechanizing 在 2-1 的 mechanized 高亮过，这次又高亮，按生词计。process（processes 共 2 个 token，工序、工艺）、subject（subject to，同 30-5、2-1）、track（铁轨）、spark（引发）、toy（toy with 摆弄）按熟词僻义。once 被标成从属连词，不在统计范围。高亮了但按已会处理（基础词、连接词或句型，没计入）：once、iron-making improved、hang、Moreover、sugar、error if done by hand。piston 这次没高亮，按已会。词性标注没有需要手动修正的词。"
+ },
+ {
+  "date": "2026-11-23",
+  "date_estimated": false,
+  "set": "2021",
+  "passage": "2-3",
+  "title": "Machines and Manufacturing",
+  "kind": "日常",
+  "topic": "科技/历史",
+  "tokens": 100,
+  "unknown": 21,
+  "polysemy": 2,
+  "rate": 21.0,
+  "unclear_rate": 23.0,
+  "content_types": 83,
+  "unknown_types": 15,
+  "polysemy_types": 2,
+  "high": 98.2,
+  "mid": 52.2,
+  "low": 0.0,
+  "band_types": {
+   "high": 55,
+   "mid": 23,
+   "low": 5
+  },
+  "words": "consolidation, cotton(含手动 1 token), cottonseed, disperse, fiber, gin, household, loom, loosely, machinery, patent, spindle, stunning, tenfold, textile",
+  "poly_words": "bolt, fine",
+  "unknown_lemmas": [
+   "consolidation",
+   "cotton(含手动 1 token)",
+   "cottonseed",
+   "disperse",
+   "fiber",
+   "gin",
+   "household",
+   "loom",
+   "loosely",
+   "machinery",
+   "patent",
+   "spindle",
+   "stunning",
+   "tenfold",
+   "textile"
+  ],
+  "poly_lemmas": [
+   "bolt",
+   "fine"
+  ],
+  "text": "Textile production was one of the areas that benefited from both technical changes and the consolidation of different stages of the work in a factory. With new machinery, a single textile operator could handle many looms and spindles at once, and could produce bolts of cloth with stunning efficiency. Gone were the hand tools, the family traditions, and the loosely organized and dispersed systems of households producing cloth in their homes for local merchants to carry to markets. The material was also stronger, finer, and more uniform. Thanks to such innovations, British cotton output increased tenfold between 1770 and 1790, leading to a 90 percent decline in the price of cloth between 1782 and 1812. Most raw cotton for the British cloth industry had come from colonial India until 1793, when the American inventor Eli Whitney (1765-1825) patented a device called a \"cotton gin\" that separated cottonseeds from fiber. Cotton farming quickly spread through the southern states—from South Carolina into Georgia, Alabama, Mississippi, and Louisiana—as the United States came to produce more than 80 percent of the world cotton supply by the 1850s. Thus, the American south became a supplier of raw cotton to Britain.",
+  "method_version": 1,
+  "source": "截图 2026-11-23 20:24",
+  "note": "2021 套 Passage 2 Machines and Manufacturing 的 2-3（这一篇的最后一段）。她没写意思，生词/熟词僻义是我按词义判断。截图里有几处标点录入问题，T 里还原：factory 后补句号，hand tools 后的句号改逗号，innovations 后的句号改逗号，1790 后的句号改逗号，Alabama 后补逗号，破折号还原，1850s 后补句号。她只高亮了第一个 cotton（British cotton output），全段 cotton 一共 6 个 token（5 个被标成名词，Cotton farming 的 Cotton 被标成专名没统计，手动 +1 词 +1 生词），按每个 token 计生词；textile 出现 2 次也各算 1 个。patented 的 patent 在 2-1 高亮过，这次又高亮，按生词计；dispersed 的 disperse 是 17-1 的复习词，再次高亮按生词计；fiber 她在 1-1 的 fibrous 学过词根，这次高亮 fiber 按生词计。bolts（一匹布）、finer（更精细的）按熟词僻义。Gone were 是倒装句型（= The hand tools were gone），没计入生词。"
  }
 ]
