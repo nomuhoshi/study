@@ -4911,7 +4911,7 @@
   "date_estimated": false,
   "set": "2021",
   "passage": "3-1",
-  "title": "",
+  "title": "The Effects of Squirrels' Storing Behavior",
   "kind": "日常",
   "topic": "生物/生态",
   "tokens": 127,
@@ -4955,6 +4955,6 @@
   "text": "In a process known as scatter-hoarding, some species of squirrels store food for future use in many different locations. Using this process, the squirrels will store hundreds if not thousands of seeds and nuts per individual squirrel. Early observations led to the long-held notion that squirrels store more than they need and then forget where many seeds and nuts are stored, allowing some of them to germinate (begin growing into new plants) and become established (grow roots). More recent research, however, suggests a far more complicated picture, one in which the squirrels are considerably more efficient at seed and nut recovery and in which germination and establishment occur under far more limited circumstances than previously thought. Nevertheless, scatter-hoarding squirrels are critical for seed dispersal and, in many forest systems, they may serve as its principal agents. Experimental evidence strongly suggests that individual squirrels remember precise locations of their stored nuts, most likely based on spatial information, as is also shown for the scatter-hoarding corvids (birds such as rocks, jays and crows). This is not to say that they don't steal from one another, pilfering is common and sometimes even extreme. Yet in many situations these scatter-hoarders may have control over their own scatter-hoards.",
   "method_version": 1,
   "source": "截图 2026-11-23 20:47",
-  "note": "2021 套 Passage 3 的 3-1，截图里没有显示这一篇的标题（title 留空）。她没写意思，生词/熟词僻义是我按词义判断。squirrel 在 17-2 是复习词，这次又高亮，全段 7 个 token 都按生词计。scatter-hoarding 她只高亮了第一处，全段 scatter 共 5 个 token、hoarding 3 个 token 按生词计；scatter-hoarders、scatter-hoards 里的 hoarder、hoard 是不同词元且没高亮，按已会没计入。dispersal 是 17-1 的复习词，再次高亮按生词计；considerably 与 1-2 的 considerable 同族，按生词计；establishment 按生词计（establish 没高亮，按已会）；germination 没高亮按已会。截图里的 rocks 应是 rooks（白嘴鸦，和 jays、crows 同属乌鸦科），原文截图就是 rocks，T 按截图保留，按生词计（rooks）。principal（主要的）、agents（传播媒介）按熟词僻义。高亮了但按已会处理（基础词、连接词或句型，没计入）：if not、one in which、occur、as（连词，正如）、control over。"
+  "note": "2021 套 Passage 3 的 3-1，标题 The Effects of Squirrels' Storing Behavior 来自 2026-11-23 22:52 的完整截图。她没写意思，生词/熟词僻义是我按词义判断。squirrel 在 17-2 是复习词，这次又高亮，全段 7 个 token 都按生词计。scatter-hoarding 她只高亮了第一处，全段 scatter 共 5 个 token、hoarding 3 个 token 按生词计；scatter-hoarders、scatter-hoards 里的 hoarder、hoard 是不同词元且没高亮，按已会没计入。dispersal 是 17-1 的复习词，再次高亮按生词计；considerably 与 1-2 的 considerable 同族，按生词计；establishment 按生词计（establish 没高亮，按已会）；germination 没高亮按已会。截图里的 rocks 应是 rooks（白嘴鸦，和 jays、crows 同属乌鸦科），22:52 的完整截图里原文确实写的是 rocks，T 按原文保留，按生词计（rooks）。principal（主要的）、agents（传播媒介）按熟词僻义。高亮了但按已会处理（基础词、连接词或句型，没计入）：if not、one in which、occur、as（连词，正如）、control over。 完整截图里 pilfering 前面确认是逗号（another, pilfering is common），原文就是这样，T 保留。"
  }
 ]
