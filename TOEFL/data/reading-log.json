@@ -5075,5 +5075,50 @@
   "method_version": 1,
   "source": "截图 2026-11-26 00:37（学习日 11-25）",
   "note": "2021 套 Passage 3 的 3-3。她没写意思，生词/熟词僻义是我按词义判断。学习日：消息发于 11-26 00:37，按 06:00 前算前一天记 11-25。截图录入问题，T 里还原：cut-off 写成 cut off；embryo-excision-removal) 还原为 embryo excision (removal)；rodents- such as 与 southern flying squirrels--selectively 的连字符改成 - ；Numerous other nut characteristics, nut size... 还原为括号 (nut size, weight, and insect infestation)；截图高亮的 seeding 推测是 seedling（幼苗），T 里写 seedling，词性标注把 seedling 标成动词（lemma seedle），仍按生词计。按每个 token 计生词：embryo 3 个（高亮 2 个，attempt embryo excision 的那个没高亮但同词按生词计）、excision 2 个。pointed（尖的）按生词；captive 生词，raised（captive-raised 人工饲养）熟词僻义；crops（heavy crops 大量收成）、yields（产量）按熟词僻义。高亮了但按已会处理（基础词、短语或连接成分，没计入）：faced with、heavy、cut off、removal、largely、mice、appear to、Hence、in turn。没高亮的 scatter-hoard(ing)、germination、oak、acorn 在这段按已会。Passage 4 标题和 4-1 开头出现在截图底部，没有高亮，没算。"
+ },
+ {
+  "date": "2026-11-26",
+  "date_estimated": false,
+  "set": "2021",
+  "passage": "4-1",
+  "title": "The British Economy in the Eighteenth Century",
+  "kind": "日常",
+  "topic": "经济/历史",
+  "tokens": 120,
+  "unknown": 12,
+  "polysemy": 0,
+  "rate": 10.0,
+  "unclear_rate": 10.0,
+  "content_types": 100,
+  "unknown_types": 11,
+  "polysemy_types": 0,
+  "high": 100.0,
+  "mid": 70.0,
+  "low": 37.5,
+  "band_types": {
+   "high": 72,
+   "mid": 20,
+   "low": 8
+  },
+  "words": "alter, copper, cutlery, exclaim, fabric, hamlet, linen, standardize, swell, tariff, woolen",
+  "poly_words": "",
+  "unknown_lemmas": [
+   "alter",
+   "copper",
+   "cutlery",
+   "exclaim",
+   "fabric",
+   "hamlet",
+   "linen",
+   "standardize",
+   "swell",
+   "tariff",
+   "woolen"
+  ],
+  "poly_lemmas": [],
+  "text": "The British economy expanded significantly in the eighteenth century, particularly with the development of factory manufacturing. By the middle of the century, it had begun to alter the northern English landscape. \"From the Establishment of Manufacturers we see Hamlets swell into Villages and Villages into Towns,\" exclaimed one gentleman in the 1770s. The production of manufactured goods doubled in the second half of the century. Cotton manufacturing led the way: from 1750 to 1770, British cotton exports doubled. The production of iron followed in importance, along with wool and woolen fabrics, linen, silk, copper, paper, cutlery, and the booming building trades. Coal was substituted for wood as fuel. Despite its relatively small size, Britain had significant economic advantages over the other nations of Europe, helping to explain why the manufacturing revolution began in Britain. Unlike the German or Italian states, Britain was unified politically. People living in England spoke basically the same language. France and the Italian and German states still had internal tariffs that made trade more costly, whereas in Britain there were no internal tariffs once the union between England and Scotland had been achieved in 1707, creating Great Britain. The system of weights and measures in Britain had largely been standardized. Indeed, Great Britain was by far the wealthiest nation in the world. Colonies in faraway parts of the world provided raw materials for manufacturing and markets for goods produced in Britain; for example, the amount of raw cotton imported from India increased by twenty times from 1750 to 1800.",
+  "method_version": 1,
+  "source": "截图 2026-11-26 14:34",
+  "note": "2021 套 Passage 4 The British Economy in the Eighteenth Century 的 4-1。她没写意思，生词是我按词义判断。按每个 token 计生词：tariffs 2 个（internal tariffs 高亮一个，no internal tariffs 没高亮但同词按生词计）。高亮了但按已会处理（基础词、短语、固定搭配或专名，没计入）：manufactured goods（manufacture 系在这段没高亮处多次出现，按已会）、led the way、followed in importance、once、by far the wealthiest、faraway、Great Britain（专名）。词性标注把 Establishment、Manufacturers、Villages（2 个）标成专名没统计，它们没高亮，按已会。Hamlets 被标成普通名词，正常计入。4-2 的开头出现在截图底部，没有高亮，没算。"
  }
 ]
