@@ -5121,6 +5121,61 @@
   "source": "截图 2026-11-26 14:34",
   "note": "2021 套 Passage 4 The British Economy in the Eighteenth Century 的 4-1。她没写意思，生词是我按词义判断。按每个 token 计生词：tariffs 2 个（internal tariffs 高亮一个，no internal tariffs 没高亮但同词按生词计）。高亮了但按已会处理（基础词、短语、固定搭配或专名，没计入）：manufactured goods（manufacture 系在这段没高亮处多次出现，按已会）、led the way、followed in importance、once、by far the wealthiest、faraway、Great Britain（专名）。词性标注把 Establishment、Manufacturers、Villages（2 个）标成专名没统计，它们没高亮，按已会。Hamlets 被标成普通名词，正常计入。4-2 的开头出现在截图底部，没有高亮，没算。",
   "own_meanings": "alter 改变; hamlets 小村庄; swell 扩张; exclaimed 惊呼; manufactured goods 成品; led the way 领先; followed in importance 重要性紧随其后; woolen 羊毛制的; fabrics 布料; linen 亚麻布; copper 铜; cutlery 刀具; tariffs 关税; once 一旦; Great Britain 大不列颠; standardized 标准化; by far the 远远的; wealthiest 最富有的; faraway 遥远的。核对：swell 这句是“(村子)膨胀、扩大成”；manufactured goods 更准确是“制成品”；standardized 是被动“已被统一规格”；by far 是副词“远远地”，by far the wealthiest 是“远远是最富有的”；once 这句是“一旦……(之后)”；led the way 是“带头、领先”。高亮的词她全部写了，没有漏写。",
-  "own_meanings_source": "截图 2026-11-27 17:02（完整，替换 17:00 的部分记录）"
+  "own_meanings_source": "笔记写于 2026-11-26 16:03，2026-11-27 17:02 发来（完整，替换 17:00 的部分记录）"
+ },
+ {
+  "date": "2026-11-27",
+  "date_estimated": false,
+  "set": "2021",
+  "passage": "4-2",
+  "title": "The British Economy in the Eighteenth Century",
+  "kind": "日常",
+  "topic": "经济/历史",
+  "tokens": 157,
+  "unknown": 15,
+  "polysemy": 6,
+  "rate": 9.6,
+  "unclear_rate": 13.4,
+  "content_types": 139,
+  "unknown_types": 14,
+  "polysemy_types": 6,
+  "high": 95.7,
+  "mid": 72.2,
+  "low": 33.3,
+  "band_types": {
+   "high": 94,
+   "mid": 36,
+   "low": 9
+  },
+  "words": "expedition, facilitate, gentry(手动 1 token), liability, liable, navigable, ore, profitable, reinvestment, reticence, tar, toll, turnpike, unmatched",
+  "poly_words": "arrangement, coach, confidence, lie, order, respected",
+  "unknown_lemmas": [
+   "expedition",
+   "facilitate",
+   "gentry(手动 1 token)",
+   "liability",
+   "liable",
+   "navigable",
+   "ore",
+   "profitable",
+   "reinvestment",
+   "reticence",
+   "tar",
+   "toll",
+   "turnpike",
+   "unmatched"
+  ],
+  "poly_lemmas": [
+   "arrangement",
+   "coach",
+   "confidence",
+   "lie",
+   "order",
+   "respected"
+  ],
+  "text": "England's stable banking and credit arrangements also contributed to England's advantage by facilitating the reinvestment of agricultural and commercial profits in manufacturing. London's banks, particularly the giant Bank of England, were profitable and respected. Merchants and manufacturers accepted paper money and written orders for payment, or bills of exchange with confidence. Gentry, or those who owned land, invested in overseas trade expeditions and in manufacturing without the reticence of landowners on the European continent. London's financial market could provide information twice a week on what investments were worth in Amsterdam and Paris. Joint-stock companies, which had begun in the late seventeenth century, offered investors shares in their businesses together with limited personal liability, which meant that in the case of a company's financial disaster, individual investors would be liable only to the extent of their investments. Expanded demand for manufactured goods led to a dramatic improvement in Britain's transportation systems. A new process of road surfacing - using small pieces of stone mixed with tar - improved travel on the main routes. Major roads were extended and improved, as investors formed turnpike trusts, repairing the highways and turning a profit by charging a toll to travelers using them. In 1700 it took 50 hours to travel the 180 kilometers from Norwich to London by coach: by 1800 the journey could be achieved in 19 hours. Moreover, England's water transportation was unmatched in Europe, a gift of nature. Rich sources of coal and iron ore lay near waterways and could be transported with relative ease along the coast. No part of England stands more than 70 miles from the sea. Navigable rivers and canals built in the middle decades of the century also facilitated the transportation of raw materials and manufactured goods.",
+  "method_version": 1,
+  "source": "截图 2026-11-27 16:54（17:03 发来）",
+  "note": "2021 套 Passage 4 的 4-2。她没写意思，生词/熟词僻义是我按词义判断。学习日 11-27（她 17:03 发来；截图里手机时间 16:54/16:55）。截图的破折号丢了，T 里 road surfacing - using ... tar - improved 补回成破折号；原文 coach: by 1800 的冒号按截图保留。70 miles 被划了下划线、没高亮，按普通词。词性标注把句首的 Gentry 标成专名没统计，手动 +1 词 +1 生词。按每个 token 计生词：facilitate 2 个（facilitating 和 facilitated）。arrangements（credit arrangements 金融安排）、respected（受尊敬的）、orders（written orders 书面指令）、confidence（with confidence 放心地）、coach（长途马车）、lay（lie 的过去式，位于）按熟词僻义。高亮了但按已会处理（基础词、短语或专名，没计入）：stable banking、overseas、in the case of a、to the extent、limited personal、coast、Amsterdam（专名）。写完 4-2 的底部还出现了 4-3 的开头 Finally, the British government offered...，没有高亮，没算。"
  }
 ]
