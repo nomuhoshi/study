@@ -5120,7 +5120,7 @@
   "method_version": 1,
   "source": "截图 2026-11-26 14:34",
   "note": "2021 套 Passage 4 The British Economy in the Eighteenth Century 的 4-1。她没写意思，生词是我按词义判断。按每个 token 计生词：tariffs 2 个（internal tariffs 高亮一个，no internal tariffs 没高亮但同词按生词计）。高亮了但按已会处理（基础词、短语、固定搭配或专名，没计入）：manufactured goods（manufacture 系在这段没高亮处多次出现，按已会）、led the way、followed in importance、once、by far the wealthiest、faraway、Great Britain（专名）。词性标注把 Establishment、Manufacturers、Villages（2 个）标成专名没统计，它们没高亮，按已会。Hamlets 被标成普通名词，正常计入。4-2 的开头出现在截图底部，没有高亮，没算。",
-  "own_meanings": "alter 改变; hamlets 小村庄; swell 扩张; exclaimed 惊呼; manufactured goods 成品。核对：swell 在这句是“(村子)扩大成”；manufactured goods 更准确是“制成品”。这次只写了前 5 个，还没写：led the way、followed in importance、woolen fabrics、linen、copper、cutlery、tariffs、once、standardized、by far the wealthiest、faraway、Great Britain。",
-  "own_meanings_source": "消息 2026-11-27 17:00（部分，后面可能还会补）"
+  "own_meanings": "alter 改变; hamlets 小村庄; swell 扩张; exclaimed 惊呼; manufactured goods 成品; led the way 领先; followed in importance 重要性紧随其后; woolen 羊毛制的; fabrics 布料; linen 亚麻布; copper 铜; cutlery 刀具; tariffs 关税; once 一旦; Great Britain 大不列颠; standardized 标准化; by far the 远远的; wealthiest 最富有的; faraway 遥远的。核对：swell 这句是“(村子)膨胀、扩大成”；manufactured goods 更准确是“制成品”；standardized 是被动“已被统一规格”；by far 是副词“远远地”，by far the wealthiest 是“远远是最富有的”；once 这句是“一旦……(之后)”；led the way 是“带头、领先”。高亮的词她全部写了，没有漏写。",
+  "own_meanings_source": "截图 2026-11-27 17:02（完整，替换 17:00 的部分记录）"
  }
 ]
