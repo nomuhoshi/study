@@ -5179,5 +5179,55 @@
   "note": "2021 套 Passage 4 的 4-2。她没写意思，生词/熟词僻义是我按词义判断。学习日 11-27（她 17:03 发来；截图里手机时间 16:54/16:55）。截图的破折号丢了，T 里 road surfacing - using ... tar - improved 补回成破折号；原文 coach: by 1800 的冒号按截图保留。70 miles 被划了下划线、没高亮，按普通词。词性标注把句首的 Gentry 标成专名没统计，手动 +1 词 +1 生词。按每个 token 计生词：facilitate 2 个（facilitating 和 facilitated）。arrangements（credit arrangements 金融安排）、respected（受尊敬的）、orders（written orders 书面指令）、confidence（with confidence 放心地）、coach（长途马车）、lay（lie 的过去式，位于）按熟词僻义。高亮了但按已会处理（基础词、短语或专名，没计入）：stable banking、overseas、in the case of a、to the extent、limited personal、coast、Amsterdam（专名）。写完 4-2 的底部还出现了 4-3 的开头 Finally, the British government offered...，没有高亮，没算。",
   "own_meanings": "stable banking 稳定的银行业; credit arrangements 信贷安排; facilitating 促进; reinvestment 再投资; profitable 有利可图的; respected 有声望的; written orders for payment 书面凭证; confidence 信任; gentry 地主阶级; overseas 海外的; expeditions 远征; reticence 不愿意; Amsterdam（没写意思）; limited personal liabilify 有限个人责任; liability 责任; in the case of 如果发生x的情况; liable only to the extent 只在x的范围内承担责任; tar 焦油; turnpike 收费公路; pike 长杆; toll 过路费; coach 客运大巴; unmatched 没有对手; ore 矿石; lie➡️lay 位于; coast 海岸; navigable 可航行的。核对：liabilify 拼错，应为 liability；coach 在 1700 年代是“长途马车”，不是现代的客运大巴；written orders for payment 是“书面付款指令”；reticence 是名词“保留、沉默寡言、不愿表态”；gentry 更准确是“乡绅阶层”；unmatched 是“无与伦比的”；tar 在铺路这里是“柏油”；Amsterdam 是阿姆斯特丹。她自己补的 pike 长杆（turn + pike 拆词）和 lie➡️lay（lay 是 lie 的过去式）都对。高亮的词她全部写了，没有漏写。",
   "own_meanings_source": "消息 2026-11-27 22:11"
+ },
+ {
+  "date": "2026-11-28",
+  "date_estimated": false,
+  "set": "2021",
+  "passage": "4-3",
+  "title": "The British Economy in the Eighteenth Century",
+  "kind": "日常",
+  "topic": "经济/历史",
+  "tokens": 95,
+  "unknown": 14,
+  "polysemy": 2,
+  "rate": 14.7,
+  "unclear_rate": 16.8,
+  "content_types": 76,
+  "unknown_types": 13,
+  "polysemy_types": 2,
+  "high": 97.7,
+  "mid": 65.2,
+  "low": 33.3,
+  "band_types": {
+   "high": 44,
+   "mid": 23,
+   "low": 9
+  },
+  "words": "anticipate, calico, extoll, impose, intervention, intrusive, liberalism, prescribe, prevail, rival, tariff, triple, woolens(手动 1 token)",
+  "poly_words": "bow, operation",
+  "unknown_lemmas": [
+   "anticipate",
+   "calico",
+   "extoll",
+   "impose",
+   "intervention",
+   "intrusive",
+   "liberalism",
+   "prescribe",
+   "prevail",
+   "rival",
+   "tariff",
+   "triple",
+   "woolens(手动 1 token)"
+  ],
+  "poly_lemmas": [
+   "bow",
+   "operation"
+  ],
+  "text": "Finally, the British government offered business people more assistance than any Continental rivals could anticipate from their own governments. The powerful Royal Navy protected the merchant fleet, which tripled during the first three-quarters of the century. Laws forced foreign merchants to ship export goods to Britain in British ships. Bowing to pressure from woolens producers, the British government in 1700 had imposed protective tariffs on imported silk and calico (printed cotton fabric). Agreements with the Dutch Republic and France in the late 1780s reduced trade tariffs with those states, which helped British exports. Furthermore, the political influence of business people kept taxes low. Yet the British government rarely interfered in operations of the economy in ways that businesses might have considered intrusive. Adam Smith (1723-1790), who emerged as the most important economic theorist of the time, rejected prevailing theories that prescribed more government control of the economy, instead extolling economic liberalism - that is, relatively little government intervention.",
+  "method_version": 1,
+  "source": "截图 2026-11-28 16:44",
+  "note": "2021 套 Passage 4 的 4-3（Passage 4 最后一段）。她没写意思，生词/熟词僻义是我按词义判断。学习日 11-28（16:44 发来）。截图录入问题，T 里还原：Contnental 补成 Continental；fleet. which 改成 fleet, which；woolens producers. the British 改成逗号；protective tariffs or imported silk 的 or 还原成 on；reduced trade tariffs. with those states 的句号去掉；liberalism-that is 补成破折号。词性标注把 woolens 标成专名没统计，手动 +1 词 +1 生词（woolen 在 4-1 高亮过，这次又高亮，按生词计）。按每个 token 计生词：tariffs 2 个（protective tariffs 高亮，reduced trade tariffs 没高亮但同词按生词计）。Bowing（bow to pressure 屈服于）、operations（in operations of 运转、运作）按熟词僻义。高亮了但按已会处理（基础词、短语，没计入）：Agreements、rarely、in operations of 里的 in 和 of。prescribed（规定、主张）我按生词计；prevailing、liberalism、intervention 也按生词计。"
  }
 ]
